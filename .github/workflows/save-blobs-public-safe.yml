@@ -21,13 +21,11 @@ jobs:
     timeout-minutes: 360
 
     steps:
-      # Public automation repository
       - name: Checkout automation repository
         uses: actions/checkout@v4
         with:
           ref: ${{ github.ref_name }}
 
-      # Private archive checkout
       - name: Checkout private blob archive
         uses: actions/checkout@v4
         with:
@@ -333,8 +331,10 @@ jobs:
                       return
 
                   source = valid_candidates[0]
-                  safe_ecid = ECID.lower().removeprefix("0x")
-                  filename = f"{DEVICE}_{build}_{safe_ecid}.shsh2"
+
+                  # New filename pattern:
+                  # {ECID_DECIMAL}_{DEVICE}_{VERSION}-{BUILD}_{APNONCE}.shsh2
+                  filename = f"{ECID_NUMBER}_{DEVICE}_{version}-{build}_{APNONCE}.shsh2"
                   destination = SAVE_DIR / filename
 
                   if existing_blob(build) or destination.exists():
@@ -408,7 +408,6 @@ jobs:
               output.write("BLOB_LIST\n")
           PY
 
-      # Commit only the non-sensitive firmware inventory to the PUBLIC repo
       - name: Commit firmware inventory
         run: |
           git config user.name "CloudBlobSaver"
@@ -422,7 +421,6 @@ jobs:
             git push origin "HEAD:${GITHUB_REF_NAME}"
           fi
 
-      # Commit and push private blobs (permanent reliable method)
       - name: Commit and push private blobs
         id: archive
         env:
@@ -446,7 +444,6 @@ jobs:
           else
             git -C blob-archive commit -m "AutoSHSH: archive new SHSH blobs"
 
-            # Reliable method for fine-grained tokens
             git -C blob-archive push \
               "https://x-access-token:${BLOBS_REPO_TOKEN}@github.com/PickAstley11/iPhone_11_Pro_Blobs.git" \
               HEAD:main
