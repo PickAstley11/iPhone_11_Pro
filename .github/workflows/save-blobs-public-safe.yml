@@ -21,15 +21,13 @@ jobs:
     timeout-minutes: 360
 
     steps:
-      # Public automation repository. Its contents must contain no signing
-      # parameters, webhook URLs, archive tokens, or SHSH blobs.
+      # Public automation repository
       - name: Checkout automation repository
         uses: actions/checkout@v4
         with:
           ref: ${{ github.ref_name }}
 
-      # Private archive checkout. The fine-grained token is restricted to
-      # the private archive repository and is not passed to the Python script.
+      # Private archive checkout
       - name: Checkout private blob archive
         uses: actions/checkout@v4
         with:
@@ -75,12 +73,10 @@ jobs:
 
           from remotezip import RemoteZip
 
-          # Public, non-sensitive device identifier.
           DEVICE = "iPhone12,3"
           TSSCHECKER = "./tsschecker_macos_arm64"
           API_URL = "https://api.appledb.dev/ios/main.json"
 
-          # Signing values are supplied only through GitHub Actions secrets.
           ECID = os.environ["ECID"].strip()
           GENERATOR = os.environ["GENERATOR"].strip()
           APNONCE = os.environ["APNONCE"].strip().lower().removeprefix("0x")
@@ -99,7 +95,6 @@ jobs:
           }
           missing = [name for name, value in required.items() if not value]
           if missing:
-              # Print names only, never values.
               raise SystemExit("Missing required Actions secrets: " + ", ".join(missing))
 
           try:
@@ -107,8 +102,6 @@ jobs:
           except ValueError:
               raise SystemExit("ECID secret is not a valid integer representation.")
 
-          # Blobs are written directly into the separately checked-out private
-          # archive, never into the public automation repository.
           SAVE_DIR = Path("blob-archive/blobs")
           INVENTORY_FILE = Path("firmwares/iphone12,3.json")
           SAVE_DIR.mkdir(parents=True, exist_ok=True)
@@ -311,7 +304,6 @@ jobs:
 
                   log("[*] Requesting personalized TSS ticket...")
                   try:
-                      # Never forward tsschecker's output to the Actions log.
                       result = subprocess.run(
                           command,
                           stdout=subprocess.DEVNULL,
@@ -365,7 +357,6 @@ jobs:
                           return
 
                       try:
-                          # Atomic creation; will never replace an existing file.
                           os.link(staged, destination)
                       except FileExistsError:
                           log("[SKIP] Destination already exists; preserved.")
@@ -409,8 +400,6 @@ jobs:
           log(f"[+] New valid blobs: {len(new_blobs)}")
           log("=" * 55)
 
-          # Outputs contain only public build/version metadata, never secrets
-          # or filenames (which include the device ECID).
           with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as output:
               output.write(f"new_count={len(new_blobs)}\n")
               output.write("new_blobs<<BLOB_LIST\n")
@@ -419,7 +408,7 @@ jobs:
               output.write("BLOB_LIST\n")
           PY
 
-      # Commit only the non-sensitive firmware inventory to the PUBLIC repo.
+      # Commit only the non-sensitive firmware inventory to the PUBLIC repo
       - name: Commit firmware inventory
         run: |
           git config user.name "CloudBlobSaver"
@@ -433,7 +422,7 @@ jobs:
             git push origin "HEAD:${GITHUB_REF_NAME}"
           fi
 
-      # Commit only .shsh2 files to the PRIVATE archive repository.
+      # Commit and push private blobs (permanent reliable method)
       - name: Commit and push private blobs
         id: archive
         env:
@@ -456,13 +445,13 @@ jobs:
             echo "committed=false" >> "$GITHUB_OUTPUT"
           else
             git -C blob-archive commit -m "AutoSHSH: archive new SHSH blobs"
-            # Supply authentication only to this git invocation. Do not store
-            # the token in the remote URL or in the repository's git config.
-            AUTH_HEADER="$(printf 'x-access-token:%s' "$BLOBS_REPO_TOKEN" | base64 | tr -d '\\n')"
-            git -C blob-archive \
-              -c "http.https://github.com/.extraheader=AUTHORIZATION: basic ${AUTH_HEADER}" \
-              push origin HEAD:main
-            unset AUTH_HEADER BLOBS_REPO_TOKEN
+
+            # Reliable method for fine-grained tokens
+            git -C blob-archive push \
+              "https://x-access-token:${BLOBS_REPO_TOKEN}@github.com/PickAstley11/iPhone_11_Pro_Blobs.git" \
+              HEAD:main
+
+            unset BLOBS_REPO_TOKEN
             echo "committed=true" >> "$GITHUB_OUTPUT"
           fi
 
@@ -513,6 +502,5 @@ jobs:
               with urllib.request.urlopen(request, timeout=30) as response:
                   print("Discord notification sent:", response.status)
           except Exception:
-              # Do not print exception details; the webhook URL is secret.
               raise SystemExit("Discord notification failed.")
           PY
