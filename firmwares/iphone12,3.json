@@ -2309,8 +2309,14 @@
       "first_seen": "2026-11-17T09:10:46.138818+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026FallSeed/50ac7edf-50e8-4fde-86d9-5bfce7599634/iPhone12,3,iPhone12,5_27.3_24C5049d_Restore.ipsw",
       "version": "27.3 beta 2"
+    },
+    "24C5049f": {
+      "build": "24C5049f",
+      "first_seen": "2026-11-19T22:31:00.125227+00:00",
+      "ipsw_url": "https://updates.cdn-apple.com/2026FallSeed/6b11e3c6-22cb-47cb-895f-174fa7b5d4e7/iPhone12,3,iPhone12,5_27.3_24C5049f_Restore.ipsw",
+      "version": "27.3 beta 2"
     }
   },
   "device": "iPhone12,3",
-  "last_updated": "2026-11-19T22:01:10.984909+00:00"
+  "last_updated": "2026-11-19T22:31:00.196727+00:00"
 }
