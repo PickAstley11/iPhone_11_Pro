@@ -335,8 +335,6 @@ jobs:
               already_saved = existing_blob(build)
               if already_saved:
                   log("[SKIP] This build already exists in the private archive.")
-                  # Only recheck releases that may still be signed. Betas are ignored.
-                  # A missing status is checked once; an explicit false is not checked again.
                   if is_main_release(version) and info.get("signed") is not False:
                       log("[*] Rechecking whether Apple is still signing this release...")
                       with tempfile.TemporaryDirectory(prefix="tss-status-") as workdir:
@@ -367,7 +365,6 @@ jobs:
 
                   source = valid_candidates[0]
 
-                  # {ECID_DECIMAL}_{DEVICE}_{VERSION}-{BUILD}_{APNONCE}.shsh2
                   filename = f"{ECID_NUMBER}_{DEVICE}_{version}-{build}_{APNONCE}.shsh2"
                   destination = SAVE_DIR / filename
 
@@ -461,10 +458,26 @@ jobs:
 
           if git diff --cached --quiet; then
             echo "No public inventory changes."
-          else
-            git commit -m "AutoSHSH: update firmware inventory"
-            git push origin "HEAD:${GITHUB_REF_NAME}"
+            exit 0
           fi
+
+          git commit -m "AutoSHSH: update firmware inventory"
+
+          for attempt in 1 2 3; do
+            if git push origin "HEAD:${GITHUB_REF_NAME}"; then
+              exit 0
+            fi
+            echo "Push rejected, rebasing onto latest main (attempt ${attempt})..."
+            git fetch --depth=20 origin "${GITHUB_REF_NAME}"
+            if ! git rebase "origin/${GITHUB_REF_NAME}"; then
+              git checkout --theirs -- firmwares/iphone12,3.json
+              git add -- firmwares/iphone12,3.json
+              GIT_EDITOR=true git rebase --continue
+            fi
+          done
+
+          echo "Failed to push firmware inventory."
+          exit 1
 
       - name: Commit and push private blobs
         id: archive
