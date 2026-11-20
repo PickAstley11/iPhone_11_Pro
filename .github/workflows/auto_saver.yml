@@ -106,9 +106,13 @@ jobs:
           INVENTORY_FILE.parent.mkdir(parents=True, exist_ok=True)
 
           new_blobs = []
+          stopped_signing = []
 
           def log(message):
               print(message, flush=True)
+
+          def is_main_release(version):
+              return "beta" not in str(version).lower()
 
           def load_inventory():
               if not INVENTORY_FILE.exists():
@@ -190,7 +194,7 @@ jobs:
 
                       is_new = build not in inventory
                       previous = inventory.get(build, {})
-                      inventory[build] = {
+                      entry = {
                           "version": item.get("version", previous.get("version", "Unknown")),
                           "build": build,
                           "ipsw_url": ipsw_url or previous.get("ipsw_url"),
@@ -198,6 +202,11 @@ jobs:
                               "first_seen", datetime.now(timezone.utc).isoformat()
                           ),
                       }
+                      if "signed" in previous:
+                          entry["signed"] = previous["signed"]
+                      if "signed_updated" in previous:
+                          entry["signed_updated"] = previous["signed_updated"]
+                      inventory[build] = entry
                       if is_new:
                           discovered += 1
 
@@ -264,6 +273,58 @@ jobs:
               except Exception:
                   return False
 
+          def note_signing_result(build, info, success):
+              version = info.get("version", "Unknown")
+              previous = info.get("signed")
+              info["signed"] = bool(success)
+              info["signed_updated"] = datetime.now(timezone.utc).isoformat()
+              if success or previous is not True or not is_main_release(version):
+                  return
+              log(f"[UNSIGNED] Apple stopped signing iOS {version} ({build})")
+              stopped_signing.append({"build": build, "version": version})
+
+          def request_tss(build, info, capture_dir):
+              manifest = get_manifest(info.get("ipsw_url"), capture_dir.parent)
+              command = [
+                  TSSCHECKER,
+                  "--device", DEVICE,
+                  "--ecid", ECID,
+                  "--generator", GENERATOR,
+                  "--apnonce", APNONCE,
+                  "--cryptexseed", CRYPTEX_SEED,
+                  "--cryptexnonce", CRYPTEX_NONCE,
+                  "--bbsnum", BBSNUM,
+                  "--save-path", str(capture_dir),
+                  "--erase-install",
+                  "--save",
+              ]
+
+              if manifest:
+                  command.extend(["--build-manifest", manifest])
+              else:
+                  command.extend(["--buildid", build])
+
+              log("[*] Requesting personalized TSS ticket...")
+              try:
+                  result = subprocess.run(
+                      command,
+                      stdout=subprocess.DEVNULL,
+                      stderr=subprocess.DEVNULL,
+                      timeout=240,
+                      check=False,
+                  )
+              except subprocess.TimeoutExpired:
+                  log("[-] TSS request timed out.")
+                  return False
+              except Exception:
+                  log("[-] tsschecker could not be executed.")
+                  return False
+
+              if result.returncode != 0:
+                  log(f"[-] TSS request did not succeed (exit code {result.returncode}).")
+                  return False
+              return True
+
           def save_blob(build, info):
               version = info.get("version", "Unknown")
               log("")
@@ -274,71 +335,45 @@ jobs:
               already_saved = existing_blob(build)
               if already_saved:
                   log("[SKIP] This build already exists in the private archive.")
+                  # Only recheck releases that may still be signed. Betas are ignored.
+                  # A missing status is checked once; an explicit false is not checked again.
+                  if is_main_release(version) and info.get("signed") is not False:
+                      log("[*] Rechecking whether Apple is still signing this release...")
+                      with tempfile.TemporaryDirectory(prefix="tss-status-") as workdir:
+                          capture_dir = Path(workdir) / "capture"
+                          capture_dir.mkdir()
+                          note_signing_result(build, info, request_tss(build, info, capture_dir))
                   return
 
               with tempfile.TemporaryDirectory(prefix="tss-capture-") as workdir:
                   capture_dir = Path(workdir) / "capture"
                   capture_dir.mkdir()
 
-                  manifest = get_manifest(info.get("ipsw_url"), workdir)
-                  command = [
-                      TSSCHECKER,
-                      "--device", DEVICE,
-                      "--ecid", ECID,
-                      "--generator", GENERATOR,
-                      "--apnonce", APNONCE,
-                      "--cryptexseed", CRYPTEX_SEED,
-                      "--cryptexnonce", CRYPTEX_NONCE,
-                      "--bbsnum", BBSNUM,
-                      "--save-path", str(capture_dir),
-                      "--erase-install",
-                      "--save",
-                  ]
-
-                  if manifest:
-                      command.extend(["--build-manifest", manifest])
-                  else:
-                      command.extend(["--buildid", build])
-
-                  log("[*] Requesting personalized TSS ticket...")
-                  try:
-                      result = subprocess.run(
-                          command,
-                          stdout=subprocess.DEVNULL,
-                          stderr=subprocess.DEVNULL,
-                          timeout=240,
-                          check=False,
-                      )
-                  except subprocess.TimeoutExpired:
-                      log("[-] TSS request timed out.")
-                      return
-                  except Exception:
-                      log("[-] tsschecker could not be executed.")
-                      return
-
-                  if result.returncode != 0:
-                      log(f"[-] TSS request did not succeed (exit code {result.returncode}).")
+                  if not request_tss(build, info, capture_dir):
+                      note_signing_result(build, info, False)
                       return
 
                   candidates = list(capture_dir.rglob("*.shsh2"))
                   if not candidates:
                       log("[-] No SHSH2 file was produced.")
+                      note_signing_result(build, info, False)
                       return
 
                   valid_candidates = [path for path in candidates if validate_blob(path)]
                   if not valid_candidates:
                       log("[-] No blob passed local ticket validation.")
+                      note_signing_result(build, info, False)
                       return
 
                   source = valid_candidates[0]
 
-                  # New filename pattern:
                   # {ECID_DECIMAL}_{DEVICE}_{VERSION}-{BUILD}_{APNONCE}.shsh2
                   filename = f"{ECID_NUMBER}_{DEVICE}_{version}-{build}_{APNONCE}.shsh2"
                   destination = SAVE_DIR / filename
 
                   if existing_blob(build) or destination.exists():
                       log("[SKIP] Existing archive entry preserved.")
+                      note_signing_result(build, info, True)
                       return
 
                   fd, staged_name = tempfile.mkstemp(
@@ -354,15 +389,18 @@ jobs:
 
                       if not validate_blob(staged):
                           log("[-] Staged blob failed validation.")
+                          note_signing_result(build, info, False)
                           return
 
                       try:
                           os.link(staged, destination)
                       except FileExistsError:
                           log("[SKIP] Destination already exists; preserved.")
+                          note_signing_result(build, info, True)
                           return
 
                       log(f"[SUCCESS] New blob saved to private archive: {build}")
+                      note_signing_result(build, info, True)
                       new_blobs.append({"build": build, "version": version})
                   finally:
                       if staged.exists():
@@ -386,7 +424,6 @@ jobs:
           else:
               targets = sorted(inventory.keys())
 
-          save_inventory(inventory)
           log(f"[+] Historical firmware count: {len(inventory)}")
           log(f"[+] Builds to examine: {len(targets)}")
           log(f"[+] Newly discovered builds: {discovered_count}")
@@ -395,9 +432,12 @@ jobs:
               log(f"\n[{index}/{len(targets)}] Processing {build}")
               save_blob(build, inventory[build])
 
+          save_inventory(inventory)
+
           log("")
           log("=" * 55)
           log(f"[+] New valid blobs: {len(new_blobs)}")
+          log(f"[+] Main releases no longer signed: {len(stopped_signing)}")
           log("=" * 55)
 
           with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as output:
@@ -406,6 +446,11 @@ jobs:
               for item in new_blobs:
                   output.write(f"iOS {item['version']} ({item['build']})\n")
               output.write("BLOB_LIST\n")
+              output.write(f"stopped_count={len(stopped_signing)}\n")
+              output.write("stopped_blobs<<STOP_LIST\n")
+              for item in stopped_signing:
+                  output.write(f"iOS {item['version']} ({item['build']})\n")
+              output.write("STOP_LIST\n")
           PY
 
       - name: Commit firmware inventory
@@ -453,13 +498,14 @@ jobs:
           fi
 
       - name: Send Discord notification
-        if: >-
-          success() &&
-          steps.archive.outputs.committed == 'true' &&
-          steps.monitor.outputs.new_count != '0'
+        if: steps.monitor.conclusion == 'success'
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
           NEW_BLOBS: ${{ steps.monitor.outputs.new_blobs }}
+          NEW_COUNT: ${{ steps.monitor.outputs.new_count }}
+          COMMITTED: ${{ steps.archive.outputs.committed }}
+          STOPPED_BLOBS: ${{ steps.monitor.outputs.stopped_blobs }}
+          STOPPED_COUNT: ${{ steps.monitor.outputs.stopped_count }}
         run: |
           python3 - <<'PY'
           import json
@@ -467,37 +513,61 @@ jobs:
           import urllib.request
 
           webhook = os.environ.get("DISCORD_WEBHOOK", "")
-          lines = [
+          new_lines = [
               line for line in os.environ.get("NEW_BLOBS", "").splitlines()
               if line.strip()
           ]
-
-          if not webhook or not lines:
-              print("No webhook or no new blobs.")
-              raise SystemExit(0)
-
-          payload = {
-              "content": "@everyone",
-              "embeds": [{
-                  "title": "🎉 New SHSH Blob Captured!",
-                  "description": "\n".join(lines),
-                  "color": 65280,
-              }],
-              "allowed_mentions": {"parse": ["everyone"]},
-          }
-
-          request = urllib.request.Request(
-              webhook,
-              data=json.dumps(payload).encode(),
-              headers={
-                  "Content-Type": "application/json",
-                  "User-Agent": "AutoSHSH/2.0",
-              },
+          stopped_lines = [
+              line for line in os.environ.get("STOPPED_BLOBS", "").splitlines()
+              if line.strip()
+          ]
+          announce_new = (
+              os.environ.get("COMMITTED") == "true"
+              and os.environ.get("NEW_COUNT", "0") != "0"
+              and bool(new_lines)
+          )
+          announce_stopped = (
+              os.environ.get("STOPPED_COUNT", "0") != "0"
+              and bool(stopped_lines)
           )
 
-          try:
+          if not webhook or not (announce_new or announce_stopped):
+              print("No webhook or nothing to announce.")
+              raise SystemExit(0)
+
+          def post(payload):
+              request = urllib.request.Request(
+                  webhook,
+                  data=json.dumps(payload).encode(),
+                  headers={
+                      "Content-Type": "application/json",
+                      "User-Agent": "AutoSHSH/2.0",
+                  },
+              )
               with urllib.request.urlopen(request, timeout=30) as response:
                   print("Discord notification sent:", response.status)
+
+          try:
+              if announce_new:
+                  post({
+                      "content": "@everyone",
+                      "embeds": [{
+                          "title": "🎉 New SHSH Blob Captured!",
+                          "description": "\n".join(new_lines),
+                          "color": 65280,
+                      }],
+                      "allowed_mentions": {"parse": ["everyone"]},
+                  })
+              if announce_stopped:
+                  post({
+                      "content": "@everyone",
+                      "embeds": [{
+                          "title": "Apple stopped signing a release",
+                          "description": "\n".join(stopped_lines),
+                          "color": 16711680,
+                      }],
+                      "allowed_mentions": {"parse": ["everyone"]},
+                  })
           except Exception:
               raise SystemExit("Discord notification failed.")
           PY
