@@ -2940,7 +2940,7 @@
       "build": "24A446",
       "first_seen": "2026-11-17T09:10:46.138767+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026FallFCS/585d6bab-0662-42a6-ac0f-1e0392ab92ef/iPhone12,3,iPhone12,5_27.0.1_24A446_Restore.ipsw",
-      "signed": false,
+      "signed": true,
       "signed_updated": "2026-11-20T14:13:41.218203+00:00",
       "version": "27.0.1"
     },
