@@ -1,4 +1,4 @@
-name: Auto SHSH Blob Saver
+name: Auto SHSH Blob Saver old
 
 on:
   workflow_dispatch:
