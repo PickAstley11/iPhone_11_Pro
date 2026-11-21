@@ -29,7 +29,7 @@ jobs:
       - name: Checkout private blob archive
         uses: actions/checkout@v4
         with:
-          repository: PickAstley11/iPhone_11_Pro_Blobs
+          repository: ${{ secrets.BLOBS_REPO }}
           ref: main
           token: ${{ secrets.BLOBS_REPO_TOKEN }}
           path: blob-archive
@@ -71,9 +71,16 @@ jobs:
 
           from remotezip import RemoteZip
 
+          # ── Change only this line when switching devices ──────────────────
           DEVICE = "iPhone12,3"
+          # ─────────────────────────────────────────────────────────────────
+
           TSSCHECKER = "./tsschecker_macos_arm64"
           API_URL = "https://api.appledb.dev/ios/main.json"
+
+          # Inventory file is automatically derived from DEVICE
+          INVENTORY_FILE = Path(f"firmwares/{DEVICE.lower()}.json")
+          SAVE_DIR = Path("blob-archive/blobs")
 
           ECID = os.environ["ECID"].strip()
           GENERATOR = os.environ["GENERATOR"].strip()
@@ -100,8 +107,6 @@ jobs:
           except ValueError:
               raise SystemExit("ECID secret is not a valid integer representation.")
 
-          SAVE_DIR = Path("blob-archive/blobs")
-          INVENTORY_FILE = Path("firmwares/iphone12,3.json")
           SAVE_DIR.mkdir(parents=True, exist_ok=True)
           INVENTORY_FILE.parent.mkdir(parents=True, exist_ok=True)
 
@@ -454,7 +459,8 @@ jobs:
         run: |
           git config user.name "CloudBlobSaver"
           git config user.email "bot@github.com"
-          git add -- firmwares/iphone12,3.json
+
+          git add -- firmwares/
 
           if git diff --cached --quiet; then
             echo "No public inventory changes."
@@ -470,8 +476,8 @@ jobs:
             echo "Push rejected, rebasing onto latest main (attempt ${attempt})..."
             git fetch --depth=20 origin "${GITHUB_REF_NAME}"
             if ! git rebase "origin/${GITHUB_REF_NAME}"; then
-              git checkout --theirs -- firmwares/iphone12,3.json
-              git add -- firmwares/iphone12,3.json
+              git checkout --ours -- firmwares/ || true
+              git add -- firmwares/
               GIT_EDITOR=true git rebase --continue
             fi
           done
@@ -484,6 +490,7 @@ jobs:
         env:
           NEW_COUNT: ${{ steps.monitor.outputs.new_count }}
           BLOBS_REPO_TOKEN: ${{ secrets.BLOBS_REPO_TOKEN }}
+          BLOBS_REPO: ${{ secrets.BLOBS_REPO }}
         run: |
           if [ "${NEW_COUNT:-0}" -eq 0 ]; then
             echo "No new blobs to archive."
@@ -503,7 +510,7 @@ jobs:
             git -C blob-archive commit -m "AutoSHSH: archive new SHSH blobs"
 
             git -C blob-archive push \
-              "https://x-access-token:${BLOBS_REPO_TOKEN}@github.com/PickAstley11/iPhone_11_Pro_Blobs.git" \
+              "https://x-access-token:${BLOBS_REPO_TOKEN}@github.com/${BLOBS_REPO}.git" \
               HEAD:main
 
             unset BLOBS_REPO_TOKEN
