@@ -1,7 +1,6 @@
 ## Introduction
 This is a repo of which the purpose is to automate shsh blob saving. This repo saves Baseband, AP and cryptex1. 
 
-THIS IS A WORK IN-PROGRES, currently devices other than the iPhone 11 Pro dont fully work yet, I will try to add support as soon as possible though
 
 ## How it works
 I have a cronjob at https://cron-job.org which starts the workflow every 30 minutes. Once the workflow runs, it will look into a private repo and see which shsh blobs have already been saved there. Then it will query Apple´s TSS (Tatsu Signing Server) server for blobs for every ipsw that has ever existed for the iPhone 11 Pro. If TSS refuses, the workflows continues. If TSS signs the ipsw the workflow will save a blob unless if it is already archived (in that case it wont query TSS at all. It will then push these blobs into my pivate repo so that they will get archived.
