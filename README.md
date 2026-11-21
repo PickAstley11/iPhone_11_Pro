@@ -4,7 +4,11 @@ This is a repo of which the purpose is to automate shsh blob saving. This repo s
 THIS IS A WORK IN-PROGRES, currently devices other than the iPhone 11 Pro dont fully work yet, I will try to add support as soon as possible though
 
 ## How it works
-I have a cronjob at https://cron-job.org which starts the workflow every 30 minutes. Once the workflow runs, it will look into a private repo and see which shsh blobs have already been saved there. Then it will query Apple´s TSS (Tatsu Signing Server) server for blobs for every ipsw that has ever existed for the iPhone 11 Pro. If TSS refuses, the workflows continues. If TSS signs the ipsw the workflow will save a blob unless if it is already archived (in that case it wont query TSS at all. It will then push these blobs into my pivate repo so that they will get archived. All sensitive values like APNONCE, BBSNUM (baseband serial number), BLOBS_REPO_TOKEN (the github access token used to push the blobs into my private repo), CRYPTEX_NONCE, CRYPTEX_SEED, DISCORD_WEBHOOK(used for messaging me in my server when a ipsw gets unsigned and when a new blob gets saved), ECID and the GENERATOR are all saved as github secrets. This workflow would most likely also catch older firmwares being accidently resigned by Apple. If you would like to fork this and make your own implementation please go ahead, the workflow usees the arm64 tsschecker release (I recommend using the latest release) to save blobs and check the signing status. 
+I have a cronjob at https://cron-job.org which starts the workflow every 30 minutes. Once the workflow runs, it will look into a private repo and see which shsh blobs have already been saved there. Then it will query Apple´s TSS (Tatsu Signing Server) server for blobs for every ipsw that has ever existed for the iPhone 11 Pro. If TSS refuses, the workflows continues. If TSS signs the ipsw the workflow will save a blob unless if it is already archived (in that case it wont query TSS at all. It will then push these blobs into my pivate repo so that they will get archived.
+
+ All sensitive values like APNONCE, BBSNUM (baseband serial number), BLOBS_REPO_TOKEN (the github access token used to push the blobs into my private repo), CRYPTEX_NONCE, CRYPTEX_SEED, DISCORD_WEBHOOK(used for messaging me in my server when a ipsw gets unsigned and when a new blob gets saved), ECID and the GENERATOR are all saved as github secrets. This workflow would most likely also catch older firmwares being accidently resigned by Apple.
+
+ If you would like to fork this and make your own implementation please go ahead, the workflow usees the arm64 tsschecker release (I recommend using the latest release) to save blobs and check the signing status. 
 
 ## How to make this your own:
 1.Fork this repo
@@ -20,6 +24,7 @@ For the Discord webhook, go to your desired discord server click on the server n
 For the BLOBS_REPO_TOKEN first make a new repository mine is named iPhone11_Pro_Blobs and make sure its private (If not everyone will be able to see your shsh blobs and device secrets which we tried to keep secret via our github secrets.
 Now click on your github profile picture, click Settings, scroll all the way down to developer settings, click on Personal Access Tokens and select Fine-Grained token from the dropdown menu. 
 I would name it BLOBS_REPO_TOKEN, have it select for only a few repos and select your blob saving repo. When selecting the permissions select Contents and change it to read/write.
+
 
 5.Now that we have the entire workflow set up, its time to test it so go back to your fork of this repo and go to the actions tab, select agree to use your workflows and run the workflow Auto SHSH Blob Saver.
 Afterwards I recommend making an account at https://console.cron-job.org/ and making a account, make a new Cronjob and fill out the information like this:
