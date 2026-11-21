@@ -24,13 +24,14 @@ For the Discord webhook, go to your desired discord server click on the server n
 For the BLOBS_REPO_TOKEN first make a new repository mine is named iPhone11_Pro_Blobs and make sure its private (If not everyone will be able to see your shsh blobs and device secrets which we tried to keep secret via our github secrets.
 Now click on your github profile picture, click Settings, scroll all the way down to developer settings, click on Personal Access Tokens and select Fine-Grained token from the dropdown menu. 
 I would name it BLOBS_REPO_TOKEN, have it select for only a few repos and select your blob saving repo. When selecting the permissions select Contents and change it to read/write.
+Then make a new secret called BLOBS_REPO with the repo path such PickAstley11/iPhone_11_Pro_Blobs for example
 
 
 5.Now that we have the entire workflow set up, its time to test it so go back to your fork of this repo and go to the actions tab, select agree to use your workflows and run the workflow Auto SHSH Blob Saver.
 Afterwards I recommend making an account at https://console.cron-job.org/ and making a account, make a new Cronjob and fill out the information like this:
 Title: Blobsaver
 URL: https://api.github.com/repos/PickAstley11/iPhone_11_Pro/actions/workflows/auto_saver.yml/dispatches
-(replace PickAstley11 with your username
+(replace PickAstley11 with your username)
 Execution Scedule: I have it set to 30 minutes but you can make it longer if you want to
 Now go to the advanced tab and make 2 new headers.
 Key:Value
