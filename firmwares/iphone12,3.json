@@ -4,7 +4,7 @@
       "build": "17A577",
       "first_seen": "2026-11-17T09:10:46.137479+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2019FallFCS/fullrestores/061-08653/B9079E72-C875-11E9-824B-8D27C2D77BF5/iPhone12,3,iPhone12,5_13.0_17A577_Restore.ipsw",
-      "signed": false,
+      "signed": true,
       "signed_updated": "2026-11-23T18:06:23.578011+00:00",
       "version": "13.0 GM"
     },
