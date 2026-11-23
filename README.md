@@ -12,7 +12,7 @@ I have a cronjob at https://cron-job.org which starts the workflow every 30 minu
 ## How to make this your own:
 1.Fork this repo
 
-2.At /.github/worklow/auto_saver.yml edit line 74 and replace iPhone12,3 with the model identifier of your device and then save the changes.
+2.At /.github/worklow/auto_saver.yml edit line 75 and replace iPhone12,3 with the model identifier of your device and then save the changes.
 
 3.Click the Settings button under the repo, then go click on "Secrets & Variables" and then from the dropdown menu choose actions
 
