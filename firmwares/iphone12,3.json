@@ -5,7 +5,7 @@
       "first_seen": "2026-11-17T09:10:46.137479+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2019FallFCS/fullrestores/061-08653/B9079E72-C875-11E9-824B-8D27C2D77BF5/iPhone12,3,iPhone12,5_13.0_17A577_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:03.845670+00:00",
+      "signed_updated": "2026-11-27T09:01:11.409332+00:00",
       "version": "13.0 GM"
     },
     "17A5844b": {
@@ -13,7 +13,7 @@
       "first_seen": "2026-11-17T09:10:46.137506+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2019SummerSeed/fullrestores/061-18138/FD208352-DA1E-11E9-B1BA-D839301CD3DF/iPhone12,3,iPhone12,5_13.1_17A5844b_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:04.800668+00:00",
+      "signed_updated": "2026-11-27T09:01:12.153583+00:00",
       "version": "13.1 beta 4"
     },
     "17A844": {
@@ -21,7 +21,7 @@
       "first_seen": "2026-11-17T09:10:46.137512+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2019FallFCS/fullrestores/041-48487/DCD90044-D986-11E9-9F58-8A20DCDBD6A3/iPhone12,3,iPhone12,5_13.1_17A844_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:05.668708+00:00",
+      "signed_updated": "2026-11-27T09:01:12.999311+00:00",
       "version": "13.1"
     },
     "17A854": {
@@ -29,7 +29,7 @@
       "first_seen": "2026-11-17T09:10:46.137516+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2019FallFCS/fullrestores/061-18481/E8EF5E4E-DED8-11E9-8CD7-C959FA21F608/iPhone12,3,iPhone12,5_13.1.1_17A854_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:07.089536+00:00",
+      "signed_updated": "2026-11-27T09:01:14.597818+00:00",
       "version": "13.1.1"
     },
     "17A860": {
@@ -37,7 +37,7 @@
       "first_seen": "2026-11-17T09:10:46.137519+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2019FallFCS/fullrestores/061-22583/374D6F4A-E18B-11E9-AB82-A16496A9EC6E/iPhone12,3,iPhone12,5_13.1.2_17A860_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:08.924201+00:00",
+      "signed_updated": "2026-11-27T09:01:15.962237+00:00",
       "version": "13.1.2"
     },
     "17A878": {
@@ -45,7 +45,7 @@
       "first_seen": "2026-11-17T09:10:46.137524+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2019FallFCS/fullrestores/061-30570/29F1A8AE-EB7A-11E9-B694-B010329334FA/iPhone12,3,iPhone12,5_13.1.3_17A878_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:09.751725+00:00",
+      "signed_updated": "2026-11-27T09:01:16.998098+00:00",
       "version": "13.1.3"
     },
     "17B102": {
@@ -53,7 +53,7 @@
       "first_seen": "2026-11-17T09:10:46.137529+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2019FallFCS/fullrestores/061-45295/8C6494A6-FEB7-11E9-82E6-93C8F9486245/iPhone12,3,iPhone12,5_13.2.2_17B102_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:10.613854+00:00",
+      "signed_updated": "2026-11-27T09:01:17.983054+00:00",
       "version": "13.2.2"
     },
     "17B111": {
@@ -61,7 +61,7 @@
       "first_seen": "2026-11-17T09:10:46.137533+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2019FallFCS/fullrestores/061-49203/DB554330-0673-11EA-92D9-ADA35A676FB4/iPhone12,3,iPhone12,5_13.2.3_17B111_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:11.407578+00:00",
+      "signed_updated": "2026-11-27T09:01:18.827683+00:00",
       "version": "13.2.3"
     },
     "17B5059g": {
@@ -69,7 +69,7 @@
       "first_seen": "2026-11-17T09:10:46.137537+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2019FallSeed/fullrestores/061-26059/3F5C4594-E3B1-11E9-81B3-AE6A7E17678C/iPhone12,3,iPhone12,5_13.2_17B5059g_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:12.360685+00:00",
+      "signed_updated": "2026-11-27T09:01:19.610635+00:00",
       "version": "13.2 beta"
     },
     "17B5068e": {
@@ -77,7 +77,7 @@
       "first_seen": "2026-11-17T09:10:46.137540+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2019FallSeed/fullrestores/061-28687/1A71B3E2-EA30-11E9-B7D3-A61B17E817B4/iPhone12,3,iPhone12,5_13.2_17B5068e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:13.189872+00:00",
+      "signed_updated": "2026-11-27T09:01:20.358673+00:00",
       "version": "13.2 beta 2"
     },
     "17B5077a": {
@@ -85,7 +85,7 @@
       "first_seen": "2026-11-17T09:10:46.137544+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2019FallSeed/fullrestores/061-32902/C3FEC6B6-EEFE-11E9-B317-E05B593A18FD/iPhone12,3,iPhone12,5_13.2_17B5077a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:14.035914+00:00",
+      "signed_updated": "2026-11-27T09:01:21.061672+00:00",
       "version": "13.2 beta 3"
     },
     "17B5084a": {
@@ -93,7 +93,7 @@
       "first_seen": "2026-11-17T09:10:46.137548+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2019FallSeed/fullrestores/061-38611/7BD1101A-F430-11E9-8666-F5A23634DDDC/iPhone12,3,iPhone12,5_13.2_17B5084a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:15.610156+00:00",
+      "signed_updated": "2026-11-27T09:01:22.564508+00:00",
       "version": "13.2 beta 4"
     },
     "17B84": {
@@ -101,7 +101,7 @@
       "first_seen": "2026-11-17T09:10:46.137551+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2019FallFCS/fullrestores/041-81649/FC40FF2A-F4E5-11E9-B08B-A0C134390AC5/iPhone12,3,iPhone12,5_13.2_17B84_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:17.157721+00:00",
+      "signed_updated": "2026-11-27T09:01:24.155495+00:00",
       "version": "13.2"
     },
     "17C5032d": {
@@ -109,7 +109,7 @@
       "first_seen": "2026-11-17T09:10:46.137555+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2019FallSeed/fullrestores/061-46121/43568E84-FE55-11E9-A119-35902FFB422E/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.3_17C5032d_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:18.049180+00:00",
+      "signed_updated": "2026-11-27T09:01:25.030680+00:00",
       "version": "13.3 beta"
     },
     "17C5038a": {
@@ -117,7 +117,7 @@
       "first_seen": "2026-11-17T09:10:46.137558+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2019FallSeed/fullrestores/061-47466/3B1A2098-0272-11EA-8184-8EA229D4906D/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.3_17C5038a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:20.425526+00:00",
+      "signed_updated": "2026-11-27T09:01:26.577789+00:00",
       "version": "13.3 beta 2"
     },
     "17C5046a": {
@@ -125,7 +125,7 @@
       "first_seen": "2026-11-17T09:10:46.137561+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2019FallSeed/fullrestores/061-52365/D83D6A5A-0A25-11EA-BE69-9305C13A5CD7/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.3_17C5046a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:21.301176+00:00",
+      "signed_updated": "2026-11-27T09:01:27.354147+00:00",
       "version": "13.3 beta 3"
     },
     "17C5053a": {
@@ -133,7 +133,7 @@
       "first_seen": "2026-11-17T09:10:46.137564+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2019FallSeed/fullrestores/061-60459/536C8EFA-1669-11EA-A872-9C650EA20AA6/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.3_17C5053a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:23.631987+00:00",
+      "signed_updated": "2026-11-27T09:01:28.998413+00:00",
       "version": "13.3 beta 4"
     },
     "17C54": {
@@ -141,7 +141,7 @@
       "first_seen": "2026-11-17T09:10:46.137567+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2019FallFCS/fullrestores/061-61284/1ED66766-179E-11EA-AE05-B2F362E1CA37/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_13.3_17C54_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:24.511677+00:00",
+      "signed_updated": "2026-11-27T09:01:29.825179+00:00",
       "version": "13.3"
     },
     "17D50": {
@@ -149,7 +149,7 @@
       "first_seen": "2026-11-17T09:10:46.137571+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020WinterFCS/fullrestores/061-40459/74F04189-CC9F-4FE9-8CC5-6538B1A11951/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_13.3.1_17D50_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:25.434798+00:00",
+      "signed_updated": "2026-11-27T09:01:30.793841+00:00",
       "version": "13.3.1"
     },
     "17D5026c": {
@@ -157,7 +157,7 @@
       "first_seen": "2026-11-17T09:10:46.137574+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2019FallSeed/fullrestores/061-48726/9971E57A-1D45-11EA-9772-59989742F446/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.3.1_17D5026c_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:27.087964+00:00",
+      "signed_updated": "2026-11-27T09:01:32.522129+00:00",
       "version": "13.3.1 beta"
     },
     "17D5044a": {
@@ -165,7 +165,7 @@
       "first_seen": "2026-11-17T09:10:46.137576+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2019FallSeed/fullrestores/061-65476/800A24B3-4662-43EF-A648-3CAE57E5A667/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.3.1_17D5044a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:27.933806+00:00",
+      "signed_updated": "2026-11-27T09:01:33.248329+00:00",
       "version": "13.3.1 beta 2"
     },
     "17D5050a": {
@@ -173,7 +173,7 @@
       "first_seen": "2026-11-17T09:10:46.137579+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/061-69973/D65ED7AC-C16D-4D2A-9A8B-9174ACA676CB/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.3.1_17D5050a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:28.778181+00:00",
+      "signed_updated": "2026-11-27T09:01:33.968246+00:00",
       "version": "13.3.1 beta 3"
     },
     "17E255": {
@@ -181,7 +181,7 @@
       "first_seen": "2026-11-17T09:10:46.137584+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020WinterFCS/fullrestores/061-20287/0C81F0D6-2166-4954-A6CB-B1F5792C6F12/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_13.4_17E255_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:29.794600+00:00",
+      "signed_updated": "2026-11-27T09:01:34.777877+00:00",
       "version": "13.4 beta 6"
     },
     "17E262": {
@@ -189,7 +189,7 @@
       "first_seen": "2026-11-17T09:10:46.137587+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020WinterFCS/fullrestores/061-91154/8CBD34FB-AE6D-47DD-87A6-5F613CD115F3/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_13.4.1_17E262_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:30.802447+00:00",
+      "signed_updated": "2026-11-27T09:01:35.658590+00:00",
       "version": "13.4.1"
     },
     "17E5223h": {
@@ -197,7 +197,7 @@
       "first_seen": "2026-11-17T09:10:46.137591+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/061-63976/E5F8C687-6B2C-4081-8671-AB82327B6C79/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.4_17E5223h_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:31.807259+00:00",
+      "signed_updated": "2026-11-27T09:01:36.443852+00:00",
       "version": "13.4 beta"
     },
     "17E5233g": {
@@ -205,7 +205,7 @@
       "first_seen": "2026-11-17T09:10:46.137594+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/061-80043/05AA4959-4763-411E-AB57-CCA26EC29A2E/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.4_17E5233g_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:32.733416+00:00",
+      "signed_updated": "2026-11-27T09:01:37.236381+00:00",
       "version": "13.4 beta 2"
     },
     "17E5241d": {
@@ -213,7 +213,7 @@
       "first_seen": "2026-11-17T09:10:46.137599+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/061-82402/637814DF-5DD3-4C4B-B705-D6ED296C0B43/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.4_17E5241d_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:33.677883+00:00",
+      "signed_updated": "2026-11-27T09:01:38.107998+00:00",
       "version": "13.4 beta 3"
     },
     "17E5249a": {
@@ -221,7 +221,7 @@
       "first_seen": "2026-11-17T09:10:46.137603+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/061-84015/B5095972-484F-4DFB-A8C8-FCD646700A80/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.4_17E5249a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:34.683277+00:00",
+      "signed_updated": "2026-11-27T09:01:38.936107+00:00",
       "version": "13.4 beta 4"
     },
     "17E5255a": {
@@ -229,7 +229,7 @@
       "first_seen": "2026-11-17T09:10:46.137606+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/061-87458/C947D827-2ED2-4A1B-BF54-681E5C39F2FD/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.4_17E5255a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:35.632707+00:00",
+      "signed_updated": "2026-11-27T09:01:39.757611+00:00",
       "version": "13.4 beta 5"
     },
     "17F5034c": {
@@ -237,7 +237,7 @@
       "first_seen": "2026-11-17T09:10:46.137610+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/061-88234/0E925DCB-6DB1-4FBA-8C1E-8796B8C53361/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.4.5_17F5034c_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:36.560909+00:00",
+      "signed_updated": "2026-11-27T09:01:40.617485+00:00",
       "version": "13.4.5 beta"
     },
     "17F5044d": {
@@ -245,7 +245,7 @@
       "first_seen": "2026-11-17T09:10:46.137614+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/061-96015/AF13AC08-D9A0-4D75-97EF-4ADC85E7AF05/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.4.5_17F5044d_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:37.564362+00:00",
+      "signed_updated": "2026-11-27T09:01:41.471009+00:00",
       "version": "13.4.5 beta 2"
     },
     "17F5054h": {
@@ -253,7 +253,7 @@
       "first_seen": "2026-11-17T09:10:46.137617+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/auto/fullrestores/001-05614/2CAA0739-27DA-4B0F-B688-71D7EF2C3DB5/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.5_17F5054h_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:38.436694+00:00",
+      "signed_updated": "2026-11-27T09:01:42.230459+00:00",
       "version": "13.5 beta 3"
     },
     "17F5065a": {
@@ -261,7 +261,7 @@
       "first_seen": "2026-11-17T09:10:46.137620+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/001-06340/D0DE870B-B18A-42F6-B784-689580CBC54C/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.5_17F5065a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:39.279115+00:00",
+      "signed_updated": "2026-11-27T09:01:43.237537+00:00",
       "version": "13.5 beta 4"
     },
     "17F75": {
@@ -269,7 +269,7 @@
       "first_seen": "2026-11-17T09:10:46.137624+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020SpringFCS/fullrestores/061-71920/ECA2EA6C-DE74-409B-AECE-C2ECC03A9D4A/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_13.5_17F75_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:40.157049+00:00",
+      "signed_updated": "2026-11-27T09:01:44.047550+00:00",
       "version": "13.5 GM"
     },
     "17F80": {
@@ -277,7 +277,7 @@
       "first_seen": "2026-11-17T09:10:46.137628+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020SpringFCS/fullrestores/001-09223/5B65BCF0-A082-11EA-AE88-6FEDF1CFE6E8/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_13.5.1_17F80_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:41.151192+00:00",
+      "signed_updated": "2026-11-27T09:01:44.972557+00:00",
       "version": "13.5.1"
     },
     "17G5035d": {
@@ -285,7 +285,7 @@
       "first_seen": "2026-11-17T09:10:46.137632+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/001-09869/3F4A0160-CE9F-4D7F-87E4-6C07F1003A3B/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.5.5_17G5035d_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:42.062984+00:00",
+      "signed_updated": "2026-11-27T09:01:45.711176+00:00",
       "version": "13.5.5 beta"
     },
     "17G5045c": {
@@ -293,7 +293,7 @@
       "first_seen": "2026-11-17T09:10:46.137636+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020SpringSeed/fullrestores/001-13315/B2D1A5AA-CE59-4687-9EE5-8C0B575A57BD/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.6_17G5045c_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:43.003470+00:00",
+      "signed_updated": "2026-11-27T09:01:46.516213+00:00",
       "version": "13.6 beta 2"
     },
     "17G5059c": {
@@ -301,7 +301,7 @@
       "first_seen": "2026-11-17T09:10:46.137639+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020SpringSeed/fullrestores/001-16130/51B5A94B-AC13-4CF5-8AD5-95CA4A6B42B3/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.6_17G5059c_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:43.942038+00:00",
+      "signed_updated": "2026-11-27T09:01:47.419711+00:00",
       "version": "13.6 beta 3"
     },
     "17G68": {
@@ -309,7 +309,7 @@
       "first_seen": "2026-11-17T09:10:46.137642+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020SummerSeed/fullrestores/061-92929/A243A2C9-125F-4A74-A5D8-227504A0610C/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_13.6_17G68_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:44.823458+00:00",
+      "signed_updated": "2026-11-27T09:01:48.289832+00:00",
       "version": "13.6 GM"
     },
     "17G80": {
@@ -317,7 +317,7 @@
       "first_seen": "2026-11-17T09:10:46.137645+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020SummerFCS/fullrestores/001-29362/88D9E49F-6964-4F9F-9F8F-31AFBEBFE7DA/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_13.6.1_17G80_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:45.839863+00:00",
+      "signed_updated": "2026-11-27T09:01:49.190914+00:00",
       "version": "13.6.1"
     },
     "17H33": {
@@ -325,7 +325,7 @@
       "first_seen": "2026-11-17T09:10:46.137656+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020SummerFCS/fullrestores/001-25194/7E5B0F8F-C94C-466E-A8D2-A5D1D1DBB022/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_13.7_17H33_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:46.850301+00:00",
+      "signed_updated": "2026-11-27T09:01:50.127681+00:00",
       "version": "13.7 beta"
     },
     "17H35": {
@@ -333,7 +333,7 @@
       "first_seen": "2026-11-17T09:10:46.137660+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020SummerFCS/fullrestores/001-42005/4D946BA1-A613-430C-B5E0-C424B5B9715A/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_13.7_17H35_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:47.774225+00:00",
+      "signed_updated": "2026-11-27T09:01:51.075039+00:00",
       "version": "13.7"
     },
     "18A373": {
@@ -341,7 +341,7 @@
       "first_seen": "2026-11-17T09:10:46.137665+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020SummerFCS/fullrestores/001-46850/8A4DA7D0-40E1-4079-A159-5B0983102B66/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.0_18A373_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:48.258434+00:00",
+      "signed_updated": "2026-11-27T09:01:52.192392+00:00",
       "version": "14.0 GM"
     },
     "18A393": {
@@ -349,7 +349,7 @@
       "first_seen": "2026-11-17T09:10:46.137670+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020SummerFCS/fullrestores/001-50347/70300CF7-57F4-4469-8DE5-4C36310594B9/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.0.1_18A393_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:49.200245+00:00",
+      "signed_updated": "2026-11-27T09:01:53.225116+00:00",
       "version": "14.0.1"
     },
     "18A5301v": {
@@ -357,7 +357,7 @@
       "first_seen": "2026-11-17T09:10:46.137673+00:00",
       "ipsw_url": "https://developer.apple.com/services-account/download?path=/WWDC_2020/iOS_14_beta/iPhone112iPhone114iPhone116iPhone123iPhone125_14.0_18A5301v_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:49.772634+00:00",
+      "signed_updated": "2026-11-27T09:01:53.809263+00:00",
       "version": "14.0 beta"
     },
     "18A5319i": {
@@ -365,7 +365,7 @@
       "first_seen": "2026-11-17T09:10:46.137677+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020SummerSeed/fullrestores/001-24391/837F42A0-9C10-4A24-AD29-46CB35AD9315/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.0_18A5319i_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:50.652627+00:00",
+      "signed_updated": "2026-11-27T09:01:54.869468+00:00",
       "version": "14.0 beta 2"
     },
     "18A5332f": {
@@ -373,7 +373,7 @@
       "first_seen": "2026-11-17T09:10:46.137680+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020SummerSeed/fullrestores/001-30180/A6C54BDF-0F07-4F91-B7D3-9A74F9C027E0/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.0_18A5332f_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:51.522320+00:00",
+      "signed_updated": "2026-11-27T09:01:55.802672+00:00",
       "version": "14.0 beta 3"
     },
     "18A5342e": {
@@ -381,7 +381,7 @@
       "first_seen": "2026-11-17T09:10:46.137683+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020SummerSeed/fullrestores/001-32759/F706D55C-D379-11EA-B0C5-C2D6F28C1D02/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.0_18A5342e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:52.159190+00:00",
+      "signed_updated": "2026-11-27T09:01:56.587652+00:00",
       "version": "14.0 beta 4"
     },
     "18A5351d": {
@@ -389,7 +389,7 @@
       "first_seen": "2026-11-17T09:10:46.137686+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020SummerSeed/fullrestores/001-35701/CAC57B5D-44C6-45A8-A9CE-21D090EF6B5B/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.0_18A5351d_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:52.840730+00:00",
+      "signed_updated": "2026-11-27T09:01:57.494482+00:00",
       "version": "14.0 beta 5"
     },
     "18A5357e": {
@@ -397,7 +397,7 @@
       "first_seen": "2026-11-17T09:10:46.137689+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020SummerSeed/fullrestores/001-40513/25AA6554-0260-4207-9389-1203B6BAE460/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.0_18A5357e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:53.532052+00:00",
+      "signed_updated": "2026-11-27T09:01:58.371214+00:00",
       "version": "14.0 beta 6"
     },
     "18A5369b": {
@@ -405,7 +405,7 @@
       "first_seen": "2026-11-17T09:10:46.137692+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020SummerSeed/fullrestores/001-44749/D0024426-675F-40EF-948A-A4A8077069B5/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.0_18A5369b_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:54.694569+00:00",
+      "signed_updated": "2026-11-27T09:01:59.249878+00:00",
       "version": "14.0 beta 7"
     },
     "18A5373a": {
@@ -413,7 +413,7 @@
       "first_seen": "2026-11-17T09:10:46.137695+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020SummerSeed/fullrestores/001-45689/1377515B-08AE-4433-9AB6-C8D2FE4981C1/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.0_18A5373a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:55.905318+00:00",
+      "signed_updated": "2026-11-27T09:02:00.035086+00:00",
       "version": "14.0 beta 8"
     },
     "18A8395": {
@@ -421,7 +421,7 @@
       "first_seen": "2026-11-17T09:10:46.137699+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020SummerFCS/fullrestores/001-56818/6B759F96-8259-4644-92A0-771C9E21E965/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_14.1_18A8395_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:57.158631+00:00",
+      "signed_updated": "2026-11-27T09:02:00.937840+00:00",
       "version": "14.1 GM"
     },
     "18B5052h": {
@@ -429,7 +429,7 @@
       "first_seen": "2026-11-17T09:10:46.137703+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020FallSeed/fullrestores/001-49477/E72EA6B0-B931-4526-A346-150381E922B2/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.2_18B5052h_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:58.515341+00:00",
+      "signed_updated": "2026-11-27T09:02:01.871289+00:00",
       "version": "14.2 beta"
     },
     "18B5061e": {
@@ -437,7 +437,7 @@
       "first_seen": "2026-11-17T09:10:46.137706+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020FallSeed/fullrestores/001-52726/1751C64C-3197-4655-83B4-380F35762D69/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.2_18B5061e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:31:59.947304+00:00",
+      "signed_updated": "2026-11-27T09:02:02.671184+00:00",
       "version": "14.2 beta 2"
     },
     "18B5072f": {
@@ -445,7 +445,7 @@
       "first_seen": "2026-11-17T09:10:46.137709+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020FallSeed/fullrestores/001-54736/1636A79B-EA1A-4942-8DA1-85C0C8ACDB8D/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.2_18B5072f_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:01.446562+00:00",
+      "signed_updated": "2026-11-27T09:02:03.751179+00:00",
       "version": "14.2 beta 3"
     },
     "18B5083a": {
@@ -453,7 +453,7 @@
       "first_seen": "2026-11-17T09:10:46.137712+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020FallSeed/fullrestores/001-60925/E8AC3CE0-028E-4944-BA5A-C47DD8CD7AD2/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.2_18B5083a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:02.605781+00:00",
+      "signed_updated": "2026-11-27T09:02:04.700066+00:00",
       "version": "14.2 beta 4"
     },
     "18B91": {
@@ -461,7 +461,7 @@
       "first_seen": "2026-11-17T09:10:46.137715+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020FallFCS/fullrestores/001-70445/3E6B2DD9-A492-4560-99EE-CCCF40F46F29/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.2_18B91_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:03.239824+00:00",
+      "signed_updated": "2026-11-27T09:02:05.255507+00:00",
       "version": "14.2 RC"
     },
     "18B92": {
@@ -469,7 +469,7 @@
       "first_seen": "2026-11-17T09:10:46.137718+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020FallFCS/fullrestores/001-74658/96D473B0-9ADD-4A40-8DB3-38892C812FDE/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.2_18B92_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:04.347286+00:00",
+      "signed_updated": "2026-11-27T09:02:06.257727+00:00",
       "version": "14.2"
     },
     "18C5044f": {
@@ -477,7 +477,7 @@
       "first_seen": "2026-11-17T09:10:46.137721+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/001-80853/2D5E5F70-1656-411D-AD60-97049739B7F0/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.3_18C5044f_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:05.127549+00:00",
+      "signed_updated": "2026-11-27T09:02:06.763813+00:00",
       "version": "14.3 beta"
     },
     "18C5054c": {
@@ -485,7 +485,7 @@
       "first_seen": "2026-11-17T09:10:46.137724+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/001-81663/C35660F4-6376-43FA-9F9B-0EC8BA5A1640/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.3_18C5054c_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:06.298759+00:00",
+      "signed_updated": "2026-11-27T09:02:07.615739+00:00",
       "version": "14.3 beta 2"
     },
     "18C5061a": {
@@ -493,7 +493,7 @@
       "first_seen": "2026-11-17T09:10:46.137727+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/001-84428/A4ABBA30-C952-4DDA-A1E9-D585B972544C/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.3_18C5061a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:08.451746+00:00",
+      "signed_updated": "2026-11-27T09:02:08.086359+00:00",
       "version": "14.3 beta 3"
     },
     "18C65": {
@@ -501,7 +501,7 @@
       "first_seen": "2026-11-17T09:10:46.137730+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020FallFCS/fullrestores/001-45083/34D1D833-994C-4E76-8539-1148E6354972/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.3_18C65_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:10.450188+00:00",
+      "signed_updated": "2026-11-27T09:02:08.889226+00:00",
       "version": "14.3 RC"
     },
     "18C66": {
@@ -509,7 +509,7 @@
       "first_seen": "2026-11-17T09:10:46.137733+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020WinterFCS/fullrestores/001-87493/276DDA26-A771-413E-8BAF-FD7409E1897C/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.3_18C66_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:13.077112+00:00",
+      "signed_updated": "2026-11-27T09:02:09.786129+00:00",
       "version": "14.3 RC 2"
     },
     "18D5030e": {
@@ -517,7 +517,7 @@
       "first_seen": "2026-11-17T09:10:46.137737+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/001-89692/79A96A20-C21F-4C11-B7B9-BF3758A04126/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.4_18D5030e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:15.177412+00:00",
+      "signed_updated": "2026-11-27T09:02:10.754522+00:00",
       "version": "14.4 beta"
     },
     "18D5043d": {
@@ -525,7 +525,7 @@
       "first_seen": "2026-11-17T09:10:46.137739+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/001-94861/41EB734F-360F-48A7-B24D-84636D60A018/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.4_18D5043d_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:16.771468+00:00",
+      "signed_updated": "2026-11-27T09:02:11.676362+00:00",
       "version": "14.4 beta 2"
     },
     "18D52": {
@@ -533,7 +533,7 @@
       "first_seen": "2026-11-17T09:10:46.137743+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021WinterFCS/fullrestores/001-98182/541B0687-8E1D-45FE-8592-15988761215B/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.4_18D52_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:17.670879+00:00",
+      "signed_updated": "2026-11-27T09:02:12.552342+00:00",
       "version": "14.4 RC"
     },
     "18D61": {
@@ -541,7 +541,7 @@
       "first_seen": "2026-11-17T09:10:46.137747+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021WinterFCS/fullrestores/071-12431/94EB0E66-1068-4B52-8DFE-9F05C5F1DD62/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.4.1_18D61_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:18.651495+00:00",
+      "signed_updated": "2026-11-27T09:02:13.560007+00:00",
       "version": "14.4.1"
     },
     "18D70": {
@@ -549,7 +549,7 @@
       "first_seen": "2026-11-17T09:10:46.137749+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021WinterFCS/fullrestores/071-22729/77571761-8A7F-4F67-BB19-12D9BC82405B/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.4.2_18D70_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:19.205216+00:00",
+      "signed_updated": "2026-11-27T09:02:13.982014+00:00",
       "version": "14.4.2"
     },
     "18E199": {
@@ -557,7 +557,7 @@
       "first_seen": "2026-11-17T09:10:46.137754+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021SpringFCS/fullrestores/071-17683/D86CD51B-4DF2-4394-8BDA-391894407C54/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.5_18E199_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:20.083875+00:00",
+      "signed_updated": "2026-11-27T09:02:14.431516+00:00",
       "version": "14.5 RC"
     },
     "18E212": {
@@ -565,7 +565,7 @@
       "first_seen": "2026-11-17T09:10:46.137757+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021SpringFCS/fullrestores/071-33439/92C3506B-B0FE-4546-B0BB-73D71F41E4A0/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.5.1_18E212_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:20.965988+00:00",
+      "signed_updated": "2026-11-27T09:02:14.903252+00:00",
       "version": "14.5.1"
     },
     "18E5140j": {
@@ -573,7 +573,7 @@
       "first_seen": "2026-11-17T09:10:46.137760+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/071-02860/A6484B7E-A29C-4BAB-9038-ED57BE6FE4D1/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.5_18E5140j_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:21.934318+00:00",
+      "signed_updated": "2026-11-27T09:02:15.775171+00:00",
       "version": "14.5 beta"
     },
     "18E5140k": {
@@ -581,7 +581,7 @@
       "first_seen": "2026-11-17T09:10:46.137763+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/071-03570/77792549-99D5-4057-922A-45E31232D52E/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.5_18E5140k_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:22.819068+00:00",
+      "signed_updated": "2026-11-27T09:02:16.732542+00:00",
       "version": "14.5 beta"
     },
     "18E5154f": {
@@ -589,7 +589,7 @@
       "first_seen": "2026-11-17T09:10:46.137766+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/071-04804/7924DC7A-6931-4240-8372-3E37CE98D7B8/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.5_18E5154f_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:23.369224+00:00",
+      "signed_updated": "2026-11-27T09:02:17.254378+00:00",
       "version": "14.5 beta 2"
     },
     "18E5164h": {
@@ -597,7 +597,7 @@
       "first_seen": "2026-11-17T09:10:46.137769+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/071-10620/526589BF-7646-4ADB-8BBE-88408D1DDAF9/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.5_18E5164h_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:23.956822+00:00",
+      "signed_updated": "2026-11-27T09:02:18.133193+00:00",
       "version": "14.5 beta 3"
     },
     "18E5178a": {
@@ -605,7 +605,7 @@
       "first_seen": "2026-11-17T09:10:46.137772+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021WinterSeed/fullrestores/071-17171/166B9224-4DC2-44CE-9A5B-61AF08534180/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.5_18E5178a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:24.514390+00:00",
+      "signed_updated": "2026-11-27T09:02:19.133983+00:00",
       "version": "14.5 beta 4"
     },
     "18E5186a": {
@@ -613,7 +613,7 @@
       "first_seen": "2026-11-17T09:10:46.137775+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021WinterSeed/fullrestores/071-19296/880D1708-2B6E-4F75-867B-2F23BC8C407B/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.5_18E5186a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:25.355386+00:00",
+      "signed_updated": "2026-11-27T09:02:19.645829+00:00",
       "version": "14.5 beta 5"
     },
     "18E5194a": {
@@ -621,7 +621,7 @@
       "first_seen": "2026-11-17T09:10:46.137778+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021WinterSeed/fullrestores/071-24584/9B30352C-B709-45BA-A890-9F101A3452D8/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.5_18E5194a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:26.387947+00:00",
+      "signed_updated": "2026-11-27T09:02:20.065381+00:00",
       "version": "14.5 beta 6"
     },
     "18E5198a": {
@@ -629,7 +629,7 @@
       "first_seen": "2026-11-17T09:10:46.137781+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021WinterSeed/fullrestores/071-26998/2A03B5F8-A402-4D5B-919E-5B1B1B7DC3AB/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.5_18E5198a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:27.386433+00:00",
+      "signed_updated": "2026-11-27T09:02:21.070956+00:00",
       "version": "14.5 beta 7"
     },
     "18E5199a": {
@@ -637,7 +637,7 @@
       "first_seen": "2026-11-17T09:10:46.137783+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021WinterSeed/fullrestores/071-28294/7EE5C4BB-BE09-450B-9D85-50D678456353/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.5_18E5199a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:28.303799+00:00",
+      "signed_updated": "2026-11-27T09:02:22.307958+00:00",
       "version": "14.5 beta 8"
     },
     "18F5046e": {
@@ -645,7 +645,7 @@
       "first_seen": "2026-11-17T09:10:46.137787+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021WinterSeed/fullrestores/071-19152/EBF28C69-EE05-470B-A164-435DD5685C12/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.6_18F5046e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:28.636289+00:00",
+      "signed_updated": "2026-11-27T09:02:22.645679+00:00",
       "version": "14.6 beta"
     },
     "18F5046f": {
@@ -653,7 +653,7 @@
       "first_seen": "2026-11-17T09:10:46.137790+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021SpringSeed/fullrestores/071-29595/A51CCDCF-F559-44AE-8E00-77F853901F68/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.6_18F5046f_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:29.580279+00:00",
+      "signed_updated": "2026-11-27T09:02:23.572219+00:00",
       "version": "14.6 beta"
     },
     "18F5055b": {
@@ -661,7 +661,7 @@
       "first_seen": "2026-11-17T09:10:46.137792+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021SpringSeed/fullrestores/071-30865/76433582-6E38-47E7-AC77-BA92AB2699CB/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.6_18F5055b_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:30.516922+00:00",
+      "signed_updated": "2026-11-27T09:02:24.379247+00:00",
       "version": "14.6 beta 2"
     },
     "18F5065a": {
@@ -669,7 +669,7 @@
       "first_seen": "2026-11-17T09:10:46.137795+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021SpringSeed/fullrestores/071-39803/D4ADEA2F-6DF9-40D4-9208-8FBC98589AAE/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.6_18F5065a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:31.462176+00:00",
+      "signed_updated": "2026-11-27T09:02:24.897104+00:00",
       "version": "14.6 beta 3"
     },
     "18F71": {
@@ -677,7 +677,7 @@
       "first_seen": "2026-11-17T09:10:46.137798+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021SpringFCS/fullrestores/071-43897/9A248B90-B97A-46E6-8D42-51F8E5BEDEA7/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.6_18F71_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:32.463410+00:00",
+      "signed_updated": "2026-11-27T09:02:25.763299+00:00",
       "version": "14.6 RC"
     },
     "18F72": {
@@ -685,7 +685,7 @@
       "first_seen": "2026-11-17T09:10:46.137801+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021SpringFCS/fullrestores/071-45389/0BCEC735-6E9A-464D-8AA7-5263C0F339B4/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.6_18F72_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:33.431993+00:00",
+      "signed_updated": "2026-11-27T09:02:26.600722+00:00",
       "version": "14.6 RC 2"
     },
     "18G5023c": {
@@ -693,7 +693,7 @@
       "first_seen": "2026-11-17T09:10:46.137805+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021SpringSeed/fullrestores/071-36665/F0D599B6-1117-4771-9C8D-A81B20BF5F56/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.7_18G5023c_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:34.327052+00:00",
+      "signed_updated": "2026-11-27T09:02:27.628564+00:00",
       "version": "14.7 beta"
     },
     "18G5033e": {
@@ -701,7 +701,7 @@
       "first_seen": "2026-11-17T09:10:46.137808+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021SpringSeed/fullrestores/071-49709/B4C3BC23-5FF7-4717-AEE9-6EBEDC324EF5/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.7_18G5033e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:35.322682+00:00",
+      "signed_updated": "2026-11-27T09:02:28.563473+00:00",
       "version": "14.7 beta 2"
     },
     "18G5042c": {
@@ -709,7 +709,7 @@
       "first_seen": "2026-11-17T09:10:46.137811+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021SpringSeed/fullrestores/071-54808/04B6BAF9-29D0-4F6D-9638-2863CFC23B89/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.7_18G5042c_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:35.768229+00:00",
+      "signed_updated": "2026-11-27T09:02:29.389839+00:00",
       "version": "14.7 beta 3"
     },
     "18G5052d": {
@@ -717,7 +717,7 @@
       "first_seen": "2026-11-17T09:10:46.137814+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021SpringSeed/fullrestores/071-60106/BCF81E1B-FBCD-467C-9FDA-363C31A61DBC/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.7_18G5052d_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:36.276193+00:00",
+      "signed_updated": "2026-11-27T09:02:30.240539+00:00",
       "version": "14.7 beta 4"
     },
     "18G5063a": {
@@ -725,7 +725,7 @@
       "first_seen": "2026-11-17T09:10:46.137818+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021SpringSeed/fullrestores/071-66550/0480992F-3AA6-4300-89F3-4126580D960D/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.7_18G5063a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:37.174507+00:00",
+      "signed_updated": "2026-11-27T09:02:30.733917+00:00",
       "version": "14.7 beta 5"
     },
     "18G68": {
@@ -733,7 +733,7 @@
       "first_seen": "2026-11-17T09:10:46.137821+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021SummerFCS/fullrestores/071-69526/8AF073D9-A1A1-4073-9ECF-0449C29D7244/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.7_18G68_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:38.117580+00:00",
+      "signed_updated": "2026-11-27T09:02:31.640824+00:00",
       "version": "14.7 RC"
     },
     "18G69": {
@@ -741,7 +741,7 @@
       "first_seen": "2026-11-17T09:10:46.137823+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021SummerFCS/fullrestores/071-71130/15C3C2A9-0F7B-49E4-A081-18F078953EE5/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.7_18G69_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:39.169814+00:00",
+      "signed_updated": "2026-11-27T09:02:32.637945+00:00",
       "version": "14.7"
     },
     "18G82": {
@@ -749,7 +749,7 @@
       "first_seen": "2026-11-17T09:10:46.137827+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021SummerFCS/fullrestores/071-73966/B2F4517C-A57C-48D3-88B6-9A718A774EA6/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.7.1_18G82_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:40.341093+00:00",
+      "signed_updated": "2026-11-27T09:02:33.568876+00:00",
       "version": "14.7.1"
     },
     "18H17": {
@@ -757,7 +757,7 @@
       "first_seen": "2026-11-17T09:10:46.137831+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021FallFCS/fullrestores/071-98087/C29E3FB8-8BDF-48F9-A794-C65E95629AF6/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.8_18H17_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:41.434958+00:00",
+      "signed_updated": "2026-11-27T09:02:34.495855+00:00",
       "version": "14.8"
     },
     "19A344": {
@@ -765,7 +765,7 @@
       "first_seen": "2026-11-17T09:10:46.140797+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021FallFCS/fullrestores/071-96809/2CB6C4F9-A703-4721-9ADF-C3D3649D98CB/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.0_19A344_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:43.018955+00:00",
+      "signed_updated": "2026-11-27T09:02:35.339476+00:00",
       "version": "15.0 RC"
     },
     "19A346": {
@@ -773,7 +773,7 @@
       "first_seen": "2026-11-17T09:10:46.137837+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021FallFCS/fullrestores/002-02879/CF24F586-A099-4E0C-A523-75ED6E459A7C/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.0_19A346_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:43.910167+00:00",
+      "signed_updated": "2026-11-27T09:02:36.388330+00:00",
       "version": "15.0"
     },
     "19A348": {
@@ -781,7 +781,7 @@
       "first_seen": "2026-11-17T09:10:46.137840+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021FallFCS/fullrestores/002-09697/1E3852B9-19BB-4284-AC64-2040CCB4ED0A/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.0.1_19A348_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:44.880415+00:00",
+      "signed_updated": "2026-11-27T09:02:37.391006+00:00",
       "version": "15.0.1"
     },
     "19A404": {
@@ -789,7 +789,7 @@
       "first_seen": "2026-11-17T09:10:46.137843+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021FCSFall/fullrestores/002-14647/3EADDD4D-D5F5-440F-B70A-56211B32222B/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.0.2_19A404_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:45.884175+00:00",
+      "signed_updated": "2026-11-27T09:02:38.520423+00:00",
       "version": "15.0.2"
     },
     "19A5261w": {
@@ -797,7 +797,7 @@
       "first_seen": "2026-11-17T09:10:46.137847+00:00",
       "ipsw_url": "https://developer.apple.com/services-account/download?path=/WWDC_2021/iOS_15_beta/iPhone112iPhone114iPhone116iPhone123iPhone125_15.0_19A5261w_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:46.161629+00:00",
+      "signed_updated": "2026-11-27T09:02:38.832452+00:00",
       "version": "15.0 beta"
     },
     "19A5281h": {
@@ -805,7 +805,7 @@
       "first_seen": "2026-11-17T09:10:46.137850+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021SummerSeed/fullrestores/071-59439/D35E7CA0-EBB0-43C2-8A89-94CF0FA81338/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.0_19A5281h_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:47.063524+00:00",
+      "signed_updated": "2026-11-27T09:02:39.640656+00:00",
       "version": "15.0 beta 2"
     },
     "19A5281j": {
@@ -813,7 +813,7 @@
       "first_seen": "2026-11-17T09:10:46.137853+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021SummerSeed/fullrestores/071-61582/83525106-57B8-4DF3-91F2-19B199200B30/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.0_19A5281j_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:47.979459+00:00",
+      "signed_updated": "2026-11-27T09:02:40.567678+00:00",
       "version": "15.0 beta 2"
     },
     "19A5297e": {
@@ -821,7 +821,7 @@
       "first_seen": "2026-11-17T09:10:46.137856+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021SummerSeed/fullrestores/071-63566/8F5118A0-CDE1-4F1E-891A-0C98E1E7BEB5/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.0_19A5297e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:48.844006+00:00",
+      "signed_updated": "2026-11-27T09:02:41.402624+00:00",
       "version": "15.0 beta 3"
     },
     "19A5307g": {
@@ -829,7 +829,7 @@
       "first_seen": "2026-11-17T09:10:46.137860+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021SummerSeed/fullrestores/071-75919/A253BEEF-8EEC-40EA-9793-40BC32F631AD/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.0_19A5307g_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:49.807380+00:00",
+      "signed_updated": "2026-11-27T09:02:42.383577+00:00",
       "version": "15.0 beta 4"
     },
     "19A5318f": {
@@ -837,7 +837,7 @@
       "first_seen": "2026-11-17T09:10:46.137863+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021SummerSeed/fullrestores/071-80067/1994DB5B-0098-4DAF-8733-2A6A1E6EDA6D/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.0_19A5318f_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:50.724822+00:00",
+      "signed_updated": "2026-11-27T09:02:42.890074+00:00",
       "version": "15.0 beta 5"
     },
     "19A5325f": {
@@ -845,7 +845,7 @@
       "first_seen": "2026-11-17T09:10:46.137866+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021SummerSeed/fullrestores/071-84330/9743552B-2AC3-4C19-B4D4-9900A7D2399E/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.0_19A5325f_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:51.773396+00:00",
+      "signed_updated": "2026-11-27T09:02:43.874556+00:00",
       "version": "15.0 beta 6"
     },
     "19A5337a": {
@@ -853,7 +853,7 @@
       "first_seen": "2026-11-17T09:10:46.137871+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021SummerSeed/fullrestores/071-88853/6D5B907A-3B59-46E6-99E5-6DAB4D738E52/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.0_19A5337a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:52.716977+00:00",
+      "signed_updated": "2026-11-27T09:02:44.879953+00:00",
       "version": "15.0 beta 7"
     },
     "19A5340a": {
@@ -861,7 +861,7 @@
       "first_seen": "2026-11-17T09:10:46.137875+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021SummerSeed/fullrestores/071-89498/D9B24FE2-C369-46BB-9CF3-9DA53E064471/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.0_19A5340a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:53.593684+00:00",
+      "signed_updated": "2026-11-27T09:02:45.866829+00:00",
       "version": "15.0 beta 8"
     },
     "19B5042h": {
@@ -869,7 +869,7 @@
       "first_seen": "2026-11-17T09:10:46.137878+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021FallSeed/fullrestores/002-03915/D1236987-8E6A-4957-896E-7885B4FE7DFD/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.1_19B5042h_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:54.605303+00:00",
+      "signed_updated": "2026-11-27T09:02:46.906196+00:00",
       "version": "15.1 beta"
     },
     "19B5052f": {
@@ -877,7 +877,7 @@
       "first_seen": "2026-11-17T09:10:46.137884+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021FallSeed/fullrestores/002-06482/41AABAFA-4897-47C3-9EC7-9FAAC4D1368D/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.1_19B5052f_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:55.515321+00:00",
+      "signed_updated": "2026-11-27T09:02:47.898818+00:00",
       "version": "15.1 beta 2"
     },
     "19B5060d": {
@@ -885,7 +885,7 @@
       "first_seen": "2026-11-17T09:10:46.137887+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021FallSeed/fullrestores/002-10467/F0C68998-E488-463B-A0CF-1B4138D633F0/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.1_19B5060d_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:56.380979+00:00",
+      "signed_updated": "2026-11-27T09:02:48.860736+00:00",
       "version": "15.1 beta 3"
     },
     "19B5068a": {
@@ -893,7 +893,7 @@
       "first_seen": "2026-11-17T09:10:46.137890+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021FallSeed/fullrestores/002-17492/7618DD60-C450-4D3E-94A5-F9FB04990E47/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.1_19B5068a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:57.297902+00:00",
+      "signed_updated": "2026-11-27T09:02:49.902886+00:00",
       "version": "15.1 beta 4"
     },
     "19B74": {
@@ -901,7 +901,7 @@
       "first_seen": "2026-11-17T09:10:46.137893+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021FallFCS/fullrestores/071-63881/67B16087-6814-4713-89B5-DC3E97B58615/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.1_19B74_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:58.297603+00:00",
+      "signed_updated": "2026-11-27T09:02:50.913712+00:00",
       "version": "15.1 RC"
     },
     "19C5026i": {
@@ -909,7 +909,7 @@
       "first_seen": "2026-11-17T09:10:46.137898+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021FallSeed/fullrestores/002-20375/F3D91F4B-2B9C-4EB5-8D46-E2945A3A3752/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.2_19C5026i_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:32:59.537388+00:00",
+      "signed_updated": "2026-11-27T09:02:51.752645+00:00",
       "version": "15.2 beta"
     },
     "19C5036e": {
@@ -917,7 +917,7 @@
       "first_seen": "2026-11-17T09:10:46.137901+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021FallSeed/fullrestores/002-28978/4636B7F5-8711-4488-94D2-10AC8CC038C2/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.2_19C5036e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:00.977261+00:00",
+      "signed_updated": "2026-11-27T09:02:52.536957+00:00",
       "version": "15.2 beta 2"
     },
     "19C5044b": {
@@ -925,7 +925,7 @@
       "first_seen": "2026-11-17T09:10:46.137903+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021FallSeed/fullrestores/002-31744/7031E715-451E-4C98-B29D-0DD7AD9D8CB8/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.2_19C5044b_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:01.929558+00:00",
+      "signed_updated": "2026-11-27T09:02:53.398299+00:00",
       "version": "15.2 beta 3"
     },
     "19C5050b": {
@@ -933,7 +933,7 @@
       "first_seen": "2026-11-17T09:10:46.137906+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021FallSeed/fullrestores/002-40156/F1061780-C310-423C-8217-2E1F4704918A/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.2_19C5050b_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:02.991395+00:00",
+      "signed_updated": "2026-11-27T09:02:54.258331+00:00",
       "version": "15.2 beta 4"
     },
     "19C56": {
@@ -941,7 +941,7 @@
       "first_seen": "2026-11-17T09:10:46.137910+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021FCSWinter/fullrestores/071-92094/A217997A-8AAC-41CC-8E95-D161FCED432E/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.2_19C56_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:04.009994+00:00",
+      "signed_updated": "2026-11-27T09:02:55.156631+00:00",
       "version": "15.2 RC"
     },
     "19C63": {
@@ -949,7 +949,7 @@
       "first_seen": "2026-11-17T09:10:46.137914+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2021FCSWinter/fullrestores/002-51451/19353786-8A2B-4A24-A780-7E4521B6F07B/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.2.1_19C63_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:05.023500+00:00",
+      "signed_updated": "2026-11-27T09:02:56.075113+00:00",
       "version": "15.2.1"
     },
     "19D49": {
@@ -957,7 +957,7 @@
       "first_seen": "2026-11-17T09:10:46.137917+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022FCSWinter/fullrestores/002-55917/9300C2DB-1BBA-484E-BC82-DD43EE2A721E/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.3_19D49_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:05.985005+00:00",
+      "signed_updated": "2026-11-27T09:02:56.941098+00:00",
       "version": "15.3 RC"
     },
     "19D50": {
@@ -965,7 +965,7 @@
       "first_seen": "2026-11-17T09:10:46.137920+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022FCSWinter/fullrestores/002-57695/F64E2C74-C18B-48B3-8BC2-FF0DB4E21301/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.3_19D50_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:07.079328+00:00",
+      "signed_updated": "2026-11-27T09:02:57.765725+00:00",
       "version": "15.3"
     },
     "19D5026g": {
@@ -973,7 +973,7 @@
       "first_seen": "2026-11-17T09:10:46.137925+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022WinterSeed/fullrestores/002-44888/7AFEED3E-6F85-4730-80A5-6A758F48BBD5/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.3_19D5026g_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:07.935848+00:00",
+      "signed_updated": "2026-11-27T09:02:58.650887+00:00",
       "version": "15.3 beta"
     },
     "19D5040e": {
@@ -981,7 +981,7 @@
       "first_seen": "2026-11-17T09:10:46.137929+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022WinterSeed/fullrestores/002-52674/0EB2B47D-00C0-41AF-B016-71E6FF0AE324/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.3_19D5040e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:08.956566+00:00",
+      "signed_updated": "2026-11-27T09:02:59.501579+00:00",
       "version": "15.3 beta 2"
     },
     "19D52": {
@@ -989,7 +989,7 @@
       "first_seen": "2026-11-17T09:10:46.137933+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022FCSWinter/fullrestores/002-64301/9F766C93-A8FE-4338-8B8C-420F700BF5A8/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.3.1_19D52_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:09.865268+00:00",
+      "signed_updated": "2026-11-27T09:03:00.363643+00:00",
       "version": "15.3.1"
     },
     "19E241": {
@@ -997,7 +997,7 @@
       "first_seen": "2026-11-17T09:10:46.137936+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022FCSWinter/fullrestores/071-09912/70903831-EF2A-453E-8105-A78B6491E5A8/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.4_19E241_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:10.962909+00:00",
+      "signed_updated": "2026-11-27T09:03:01.537223+00:00",
       "version": "15.4 RC"
     },
     "19E258": {
@@ -1005,7 +1005,7 @@
       "first_seen": "2026-11-17T09:10:46.137939+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022FCSWinter/fullrestores/002-80720/5C4F7152-B66F-49BD-9CD0-431F4E03A828/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.4.1_19E258_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:12.097800+00:00",
+      "signed_updated": "2026-11-27T09:03:02.518519+00:00",
       "version": "15.4.1"
     },
     "19E5209h": {
@@ -1013,7 +1013,7 @@
       "first_seen": "2026-11-17T09:10:46.137942+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022WinterSeed/fullrestores/002-59169/8C8BFE05-34BE-40AA-8B9D-6F0B83FCC2AE/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.4_19E5209h_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:12.986389+00:00",
+      "signed_updated": "2026-11-27T09:03:03.585766+00:00",
       "version": "15.4 beta"
     },
     "19E5219e": {
@@ -1021,7 +1021,7 @@
       "first_seen": "2026-11-17T09:10:46.137945+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022WinterSeed/fullrestores/002-60309/6C253217-04EF-43F6-884B-4C68D8D87389/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.4_19E5219e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:13.921689+00:00",
+      "signed_updated": "2026-11-27T09:03:04.547240+00:00",
       "version": "15.4 beta 2"
     },
     "19E5225g": {
@@ -1029,7 +1029,7 @@
       "first_seen": "2026-11-17T09:10:46.137949+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022WinterSeed/fullrestores/002-71197/BDD0D703-B0B6-47D9-80C3-2223AD3574D3/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.4_19E5225g_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:14.938407+00:00",
+      "signed_updated": "2026-11-27T09:03:05.818990+00:00",
       "version": "15.4 beta 3"
     },
     "19E5235a": {
@@ -1037,7 +1037,7 @@
       "first_seen": "2026-11-17T09:10:46.137952+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022WinterSeed/fullrestores/002-74079/669E04A2-81EF-4F36-98A7-837ECF00B3DE/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.4_19E5235a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:15.984756+00:00",
+      "signed_updated": "2026-11-27T09:03:06.683942+00:00",
       "version": "15.4 beta 4"
     },
     "19E5241a": {
@@ -1045,7 +1045,7 @@
       "first_seen": "2026-11-17T09:10:46.137955+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022WinterSeed/fullrestores/002-74973/978AF157-EF44-4DE5-A401-EDD72B83D649/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.4_19E5241a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:17.237235+00:00",
+      "signed_updated": "2026-11-27T09:03:07.672514+00:00",
       "version": "15.4 beta 5"
     },
     "19F5047e": {
@@ -1053,7 +1053,7 @@
       "first_seen": "2026-11-17T09:10:46.137958+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022SpringSeed/fullrestores/002-85780/AD5F6B44-7FA4-4172-B9E4-8DCD1BF42CF1/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.5_19F5047e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:18.095881+00:00",
+      "signed_updated": "2026-11-27T09:03:08.677595+00:00",
       "version": "15.5 beta"
     },
     "19F5057e": {
@@ -1061,7 +1061,7 @@
       "first_seen": "2026-11-17T09:10:46.137961+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022SpringSeed/fullrestores/002-87476/A4B63AA0-B4B1-4D7E-8282-63F6AD74644A/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.5_19F5057e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:18.987289+00:00",
+      "signed_updated": "2026-11-27T09:03:09.568509+00:00",
       "version": "15.5 beta 2"
     },
     "19F5062g": {
@@ -1069,7 +1069,7 @@
       "first_seen": "2026-11-17T09:10:46.137964+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022SpringSeed/fullrestores/002-89790/DFB22F27-8360-45E1-A67E-A52AB5B27842/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.5_19F5062g_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:20.067178+00:00",
+      "signed_updated": "2026-11-27T09:03:10.447810+00:00",
       "version": "15.5 beta 3"
     },
     "19F5070b": {
@@ -1077,7 +1077,7 @@
       "first_seen": "2026-11-17T09:10:46.137967+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022SpringSeed/fullrestores/002-94676/2C5DA6F4-0697-4725-8EF8-C959EB3E1673/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.5_19F5070b_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:21.005888+00:00",
+      "signed_updated": "2026-11-27T09:03:11.429524+00:00",
       "version": "15.5 beta 4"
     },
     "19F77": {
@@ -1085,7 +1085,7 @@
       "first_seen": "2026-11-17T09:10:46.137970+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022SpringFCS/fullrestores/012-07863/EE4F265F-A76E-4FDF-8139-2C09611CE03B/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.5_19F77_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:21.985710+00:00",
+      "signed_updated": "2026-11-27T09:03:12.304805+00:00",
       "version": "15.5 RC"
     },
     "19G5027e": {
@@ -1093,7 +1093,7 @@
       "first_seen": "2026-11-17T09:10:46.137973+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022SpringSeed/fullrestores/002-94052/65C359BC-06B9-49C3-87B1-8512330D57A2/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.6_19G5027e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:22.969681+00:00",
+      "signed_updated": "2026-11-27T09:03:13.414255+00:00",
       "version": "15.6 beta"
     },
     "19G5037d": {
@@ -1101,7 +1101,7 @@
       "first_seen": "2026-11-17T09:10:46.137976+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022SpringSeed/fullrestores/012-10396/F97E4BB6-1B30-4DEA-B8A0-259F293B788E/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.6_19G5037d_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:23.863851+00:00",
+      "signed_updated": "2026-11-27T09:03:14.434891+00:00",
       "version": "15.6 beta 2"
     },
     "19G5046d": {
@@ -1109,7 +1109,7 @@
       "first_seen": "2026-11-17T09:10:46.137979+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022SpringSeed/fullrestores/012-18033/F965F32D-058E-4CA1-93CF-FEB64A857A29/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.6_19G5046d_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:24.850169+00:00",
+      "signed_updated": "2026-11-27T09:03:15.283374+00:00",
       "version": "15.6 beta 3"
     },
     "19G5056c": {
@@ -1117,7 +1117,7 @@
       "first_seen": "2026-11-17T09:10:46.137982+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022SpringSeed/fullrestores/012-33053/9F91AF9E-6B39-42B7-B15B-C643F03C2C96/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.6_19G5056c_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:25.866060+00:00",
+      "signed_updated": "2026-11-27T09:03:16.282777+00:00",
       "version": "15.6 beta 4"
     },
     "19G5063a": {
@@ -1125,7 +1125,7 @@
       "first_seen": "2026-11-17T09:10:46.137987+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022SpringSeed/fullrestores/012-36089/AB1DA475-2464-4025-A579-E86634DD9839/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.6_19G5063a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:26.782831+00:00",
+      "signed_updated": "2026-11-27T09:03:17.263461+00:00",
       "version": "15.6 beta 5"
     },
     "19G69": {
@@ -1133,7 +1133,7 @@
       "first_seen": "2026-11-17T09:10:46.137990+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022SummerFCS/fullrestores/012-40393/36DFCB64-76DF-4686-B9F2-C286D980E565/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.6_19G69_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:27.718027+00:00",
+      "signed_updated": "2026-11-27T09:03:18.165709+00:00",
       "version": "15.6 RC"
     },
     "19G71": {
@@ -1141,7 +1141,7 @@
       "first_seen": "2026-11-17T09:10:46.137994+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022SummerFCS/fullrestores/012-41754/D7C9E6B1-286A-459B-BEAE-F7C382ADCE2A/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.6_19G71_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:28.753246+00:00",
+      "signed_updated": "2026-11-27T09:03:19.087767+00:00",
       "version": "15.6 RC 2"
     },
     "19G82": {
@@ -1149,7 +1149,7 @@
       "first_seen": "2026-11-17T09:10:46.137997+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022SummerFCS/fullrestores/012-52967/DCE2CEF4-E428-4B8B-8A46-1C05E239E728/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.6.1_19G82_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:29.745524+00:00",
+      "signed_updated": "2026-11-27T09:03:20.153291+00:00",
       "version": "15.6.1"
     },
     "19H115": {
@@ -1157,7 +1157,7 @@
       "first_seen": "2026-11-17T09:10:46.138000+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-91078/C4CE2F3A-5F2A-4DF3-BA5A-648651991F9F/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.7.1_19H115_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:30.606078+00:00",
+      "signed_updated": "2026-11-27T09:03:21.129014+00:00",
       "version": "15.7.1 RC"
     },
     "19H117": {
@@ -1165,7 +1165,7 @@
       "first_seen": "2026-11-17T09:10:46.138003+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-95439/BA111C30-6FBB-4089-90E2-3E29C148B16A/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.7.1_19H117_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:31.610446+00:00",
+      "signed_updated": "2026-11-27T09:03:22.010906+00:00",
       "version": "15.7.1"
     },
     "19H12": {
@@ -1173,7 +1173,7 @@
       "first_seen": "2026-11-17T09:10:46.138006+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-39115/DC104483-B40D-4B77-BA44-FE689BF9A8B1/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.7_19H12_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:32.434849+00:00",
+      "signed_updated": "2026-11-27T09:03:23.024297+00:00",
       "version": "15.7 RC"
     },
     "20A362": {
@@ -1181,7 +1181,7 @@
       "first_seen": "2026-11-17T09:10:46.138029+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-65557/BD005EFE-05FE-4BB6-9A25-063A5B4BD704/iPhone12,3,iPhone12,5_16.0_20A362_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:33.244369+00:00",
+      "signed_updated": "2026-11-27T09:03:23.922535+00:00",
       "version": "16.0 RC"
     },
     "20A380": {
@@ -1189,7 +1189,7 @@
       "first_seen": "2026-11-17T09:10:46.138033+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-72585/5126D65F-437A-47FD-9984-64FBEABE5E7B/iPhone12,3,iPhone12,5_16.0.2_20A380_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:34.242447+00:00",
+      "signed_updated": "2026-11-27T09:03:24.744025+00:00",
       "version": "16.0.2"
     },
     "20A392": {
@@ -1197,7 +1197,7 @@
       "first_seen": "2026-11-17T09:10:46.138037+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-73358/504D0C8F-19A8-47AF-A729-74831C6C9908/iPhone12,3,iPhone12,5_16.0.3_20A392_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:35.278092+00:00",
+      "signed_updated": "2026-11-27T09:03:25.719358+00:00",
       "version": "16.0.3"
     },
     "20A5283p": {
@@ -1205,7 +1205,7 @@
       "first_seen": "2026-11-17T09:10:46.138041+00:00",
       "ipsw_url": "https://developer.apple.com/services-account/download?path=/WWDC_2022/iOS_16_beta/iPhone123iPhone125_16.0_20A5283p_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:35.537101+00:00",
+      "signed_updated": "2026-11-27T09:03:25.953575+00:00",
       "version": "16.0 beta"
     },
     "20A5303i": {
@@ -1213,7 +1213,7 @@
       "first_seen": "2026-11-17T09:10:46.138044+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-26218/014A4FD4-DD37-4202-B929-58CAD96E3306/iPhone12,3,iPhone12,5_16.0_20A5303i_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:36.446035+00:00",
+      "signed_updated": "2026-11-27T09:03:26.949867+00:00",
       "version": "16.0 beta 2"
     },
     "20A5312g": {
@@ -1221,7 +1221,7 @@
       "first_seen": "2026-11-17T09:10:46.138047+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-34261/60760399-6B7C-416A-9D9A-12D08A4F65EC/iPhone12,3,iPhone12,5_16.0_20A5312g_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:37.456057+00:00",
+      "signed_updated": "2026-11-27T09:03:27.776948+00:00",
       "version": "16.0 beta 3"
     },
     "20A5312j": {
@@ -1229,7 +1229,7 @@
       "first_seen": "2026-11-17T09:10:46.138049+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-40356/DBCFA146-9465-4A4C-8470-DAFF21181CB5/iPhone12,3,iPhone12,5_16.0_20A5312j_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:38.418412+00:00",
+      "signed_updated": "2026-11-27T09:03:28.540668+00:00",
       "version": "16.0 beta 3"
     },
     "20A5328h": {
@@ -1237,7 +1237,7 @@
       "first_seen": "2026-11-17T09:10:46.138052+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-45052/B6F48BC3-29F7-466A-9576-6E9E59AA046D/iPhone12,3,iPhone12,5_16.0_20A5328h_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:39.506265+00:00",
+      "signed_updated": "2026-11-27T09:03:29.356754+00:00",
       "version": "16.0 beta 4"
     },
     "20A5339d": {
@@ -1245,7 +1245,7 @@
       "first_seen": "2026-11-17T09:10:46.138055+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-45914/4DFED6E6-5DDA-485B-8A0E-81F1CD4F8525/iPhone12,3,iPhone12,5_16.0_20A5339d_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:40.433893+00:00",
+      "signed_updated": "2026-11-27T09:03:30.290232+00:00",
       "version": "16.0 beta 5"
     },
     "20A5349b": {
@@ -1253,7 +1253,7 @@
       "first_seen": "2026-11-17T09:10:46.138058+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-53474/0A63EC04-335C-494C-A067-83522CDDEA19/iPhone12,3,iPhone12,5_16.0_20A5349b_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:41.275990+00:00",
+      "signed_updated": "2026-11-27T09:03:31.053336+00:00",
       "version": "16.0 beta 6"
     },
     "20A5356a": {
@@ -1261,7 +1261,7 @@
       "first_seen": "2026-11-17T09:10:46.138061+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022FallSeed/fullrestores/012-58103/BD704527-FD18-4426-88BA-A74AD070CE1D/iPhone12,3,iPhone12,5_16.0_20A5356a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:42.051417+00:00",
+      "signed_updated": "2026-11-27T09:03:31.920526+00:00",
       "version": "16.0 beta 7"
     },
     "20A5358a": {
@@ -1269,7 +1269,7 @@
       "first_seen": "2026-11-17T09:10:46.138063+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-61707/0D9B82E5-ED73-4F3A-A322-5454DA1AA1B6/iPhone12,3,iPhone12,5_16.0_20A5358a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:42.952016+00:00",
+      "signed_updated": "2026-11-27T09:03:33.002040+00:00",
       "version": "16.0 beta 8"
     },
     "20B101": {
@@ -1277,7 +1277,7 @@
       "first_seen": "2026-11-17T09:10:46.138067+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-97065/FE1905DD-F19F-4BB8-9039-BBE28DC4BAD8/iPhone12,3,iPhone12,5_16.1.1_20B101_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:43.831560+00:00",
+      "signed_updated": "2026-11-27T09:03:33.917673+00:00",
       "version": "16.1.1"
     },
     "20B110": {
@@ -1285,7 +1285,7 @@
       "first_seen": "2026-11-17T09:10:46.138070+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/032-11720/C9C0FA05-23B2-4BE9-BE35-BB7F91565B61/iPhone12,3,iPhone12,5_16.1.2_20B110_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:44.883385+00:00",
+      "signed_updated": "2026-11-27T09:03:34.862672+00:00",
       "version": "16.1.2"
     },
     "20B5045d": {
@@ -1293,7 +1293,7 @@
       "first_seen": "2026-11-17T09:10:46.138073+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-66068/827144F4-9E39-4289-8313-AC381179D851/iPhone12,3,iPhone12,5_16.1_20B5045d_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:45.753212+00:00",
+      "signed_updated": "2026-11-27T09:03:35.711368+00:00",
       "version": "16.1 beta"
     },
     "20B5050f": {
@@ -1301,7 +1301,7 @@
       "first_seen": "2026-11-17T09:10:46.138076+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-71542/7DE66CB2-8BBB-4B5E-8CDA-E81617468F87/iPhone12,3,iPhone12,5_16.1_20B5050f_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:46.741848+00:00",
+      "signed_updated": "2026-11-27T09:03:36.548408+00:00",
       "version": "16.1 beta 2"
     },
     "20B5056e": {
@@ -1309,7 +1309,7 @@
       "first_seen": "2026-11-17T09:10:46.138079+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-72262/E5249088-BBB0-406A-A696-3764180BA341/iPhone12,3,iPhone12,5_16.1_20B5056e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:47.634416+00:00",
+      "signed_updated": "2026-11-27T09:03:37.462395+00:00",
       "version": "16.1 beta 3"
     },
     "20B5064c": {
@@ -1317,7 +1317,7 @@
       "first_seen": "2026-11-17T09:10:46.138081+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-77231/D159436F-C77E-4C13-AA9B-457F6582125D/iPhone12,3,iPhone12,5_16.1_20B5064c_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:48.521341+00:00",
+      "signed_updated": "2026-11-27T09:03:38.246033+00:00",
       "version": "16.1 beta 4"
     },
     "20B5072b": {
@@ -1325,7 +1325,7 @@
       "first_seen": "2026-11-17T09:10:46.138084+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-89258/B91B74CF-9088-4008-BF7B-632AFFA1996D/iPhone12,3,iPhone12,5_16.1_20B5072b_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:49.537360+00:00",
+      "signed_updated": "2026-11-27T09:03:39.077085+00:00",
       "version": "16.1 beta 5"
     },
     "20B79": {
@@ -1333,7 +1333,7 @@
       "first_seen": "2026-11-17T09:10:46.138087+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-91046/92AE3145-03E5-43CD-B820-68BC73B0D074/iPhone12,3,iPhone12,5_16.1_20B79_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:50.464542+00:00",
+      "signed_updated": "2026-11-27T09:03:39.860934+00:00",
       "version": "16.1 RC"
     },
     "20B82": {
@@ -1341,7 +1341,7 @@
       "first_seen": "2026-11-17T09:10:46.138091+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-92973/811E09F1-2565-4C2C-88C3-8491B37D50DB/iPhone12,3,iPhone12,5_16.1_20B82_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:51.488699+00:00",
+      "signed_updated": "2026-11-27T09:03:40.837937+00:00",
       "version": "16.1"
     },
     "20C5032e": {
@@ -1349,7 +1349,7 @@
       "first_seen": "2026-11-17T09:10:46.138096+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022FallSeed/fullrestores/012-80975/E9DF4D55-3EED-4F35-BD10-52E4BE3CDE0A/iPhone12,3,iPhone12,5_16.2_20C5032e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:52.656065+00:00",
+      "signed_updated": "2026-11-27T09:03:41.981930+00:00",
       "version": "16.2 beta"
     },
     "20C5043e": {
@@ -1357,7 +1357,7 @@
       "first_seen": "2026-11-17T09:10:46.138099+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022FallSeed/fullrestores/012-97810/BADAA535-2396-41E4-B130-FE275E0F84A5/iPhone12,3,iPhone12,5_16.2_20C5043e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:53.584329+00:00",
+      "signed_updated": "2026-11-27T09:03:43.100059+00:00",
       "version": "16.2 beta 2"
     },
     "20C5049e": {
@@ -1365,7 +1365,7 @@
       "first_seen": "2026-11-17T09:10:46.138102+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022FallSeed/fullrestores/032-06751/925DDD0D-6107-4F57-B2AC-4111E73C8295/iPhone12,3,iPhone12,5_16.2_20C5049e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:54.547727+00:00",
+      "signed_updated": "2026-11-27T09:03:44.755847+00:00",
       "version": "16.2 beta 3"
     },
     "20C5058d": {
@@ -1373,7 +1373,7 @@
       "first_seen": "2026-11-17T09:10:46.138105+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022FallSeed/fullrestores/032-12253/C18E873C-8E4C-490C-9E3E-FCA0AE026C5E/iPhone12,3,iPhone12,5_16.2_20C5058d_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:55.510211+00:00",
+      "signed_updated": "2026-11-27T09:03:45.798660+00:00",
       "version": "16.2 beta 4"
     },
     "20C65": {
@@ -1381,7 +1381,7 @@
       "first_seen": "2026-11-17T09:10:46.138114+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/032-13976/0817FCCE-5BDB-43E2-9F0D-259ED0F782D4/iPhone12,3,iPhone12,5_16.2_20C65_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:56.382401+00:00",
+      "signed_updated": "2026-11-27T09:03:46.909159+00:00",
       "version": "16.2 RC"
     },
     "20D47": {
@@ -1389,7 +1389,7 @@
       "first_seen": "2026-11-17T09:10:46.138117+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023WinterFCS/fullrestores/032-35785/3353DAC3-BA91-404C-B790-48CE95130DFB/iPhone12,3,iPhone12,5_16.3_20D47_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:57.340021+00:00",
+      "signed_updated": "2026-11-27T09:03:47.799610+00:00",
       "version": "16.3 RC"
     },
     "20D5024e": {
@@ -1397,7 +1397,7 @@
       "first_seen": "2026-11-17T09:10:46.138120+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023WinterSeed/fullrestores/032-15702/FF41646D-BFBB-4830-B35A-17A78ED16878/iPhone12,3,iPhone12,5_16.3_20D5024e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:58.124395+00:00",
+      "signed_updated": "2026-11-27T09:05:03.949660+00:00",
       "version": "16.3 beta"
     },
     "20D5035i": {
@@ -1405,7 +1405,7 @@
       "first_seen": "2026-11-17T09:10:46.138124+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023WinterSeed/fullrestores/032-33293/DE2DBB37-FC2E-44D3-A9AB-B2B361B83E48/iPhone12,3,iPhone12,5_16.3_20D5035i_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:33:59.098610+00:00",
+      "signed_updated": "2026-11-27T09:05:05.405185+00:00",
       "version": "16.3 beta 2"
     },
     "20D67": {
@@ -1413,7 +1413,7 @@
       "first_seen": "2026-11-17T09:10:46.138127+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023WinterFCS/fullrestores/032-49417/8EEFC4A7-C38E-4F58-BBF5-159C2E7849C5/iPhone12,3,iPhone12,5_16.3.1_20D67_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:00.110822+00:00",
+      "signed_updated": "2026-11-27T09:05:06.487181+00:00",
       "version": "16.3.1"
     },
     "20E246": {
@@ -1421,7 +1421,7 @@
       "first_seen": "2026-11-17T09:10:46.138130+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023WinterSeed/fullrestores/032-66078/935425FD-A2F4-420B-AD82-70BE3108AAE1/iPhone12,3,iPhone12,5_16.4_20E246_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:01.149470+00:00",
+      "signed_updated": "2026-11-27T09:05:07.783741+00:00",
       "version": "16.4 RC"
     },
     "20E247": {
@@ -1429,7 +1429,7 @@
       "first_seen": "2026-11-17T09:10:46.138133+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023SpringFCS/fullrestores/032-68595/CAB5C1E0-E5A2-49A9-AB9F-936B976FF218/iPhone12,3,iPhone12,5_16.4_20E247_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:02.271238+00:00",
+      "signed_updated": "2026-11-27T09:05:08.858631+00:00",
       "version": "16.4"
     },
     "20E252": {
@@ -1437,7 +1437,7 @@
       "first_seen": "2026-11-17T09:10:46.138136+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023SpringFCS/fullrestores/032-71272/890AD89E-EB43-475A-865C-EE556A0E5A18/iPhone12,3,iPhone12,5_16.4.1_20E252_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:03.437708+00:00",
+      "signed_updated": "2026-11-27T09:05:09.574687+00:00",
       "version": "16.4.1"
     },
     "20E5212f": {
@@ -1445,7 +1445,7 @@
       "first_seen": "2026-11-17T09:10:46.138140+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023WinterSeed/fullrestores/032-51621/1BE7BB65-B354-43B8-B731-EA6083CA0537/iPhone12,3,iPhone12,5_16.4_20E5212f_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:04.460225+00:00",
+      "signed_updated": "2026-11-27T09:05:10.601261+00:00",
       "version": "16.4 beta"
     },
     "20E5223e": {
@@ -1453,7 +1453,7 @@
       "first_seen": "2026-11-17T09:10:46.138143+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023WinterSeed/fullrestores/032-54526/294C5119-4B71-428C-997B-5B81BD8B2F1B/iPhone12,3,iPhone12,5_16.4_20E5223e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:05.366526+00:00",
+      "signed_updated": "2026-11-27T09:05:11.718882+00:00",
       "version": "16.4 beta 2"
     },
     "20E5229e": {
@@ -1461,7 +1461,7 @@
       "first_seen": "2026-11-17T09:10:46.138148+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023WinterSeed/fullrestores/032-57528/E40A7851-9F92-42AE-B1E9-3BC41208D518/iPhone12,3,iPhone12,5_16.4_20E5229e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:06.265160+00:00",
+      "signed_updated": "2026-11-27T09:05:12.519463+00:00",
       "version": "16.4 beta 3"
     },
     "20E5239b": {
@@ -1469,7 +1469,7 @@
       "first_seen": "2026-11-17T09:10:46.138151+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023WinterSeed/fullrestores/032-63464/546D5105-B5DC-4DE5-866F-D97501EDE35B/iPhone12,3,iPhone12,5_16.4_20E5239b_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:07.361546+00:00",
+      "signed_updated": "2026-11-27T09:05:13.163725+00:00",
       "version": "16.4 beta 4"
     },
     "20F5028e": {
@@ -1477,7 +1477,7 @@
       "first_seen": "2026-11-17T09:10:46.138154+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/032-59097/4EBA059D-518C-41D8-B735-D35CB6615922/iPhone12,3,iPhone12,5_16.5_20F5028e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:08.262710+00:00",
+      "signed_updated": "2026-11-27T09:05:14.221874+00:00",
       "version": "16.5 beta"
     },
     "20F5039e": {
@@ -1485,7 +1485,7 @@
       "first_seen": "2026-11-17T09:10:46.138157+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/032-70863/A0F72B5E-8EBC-48F1-952A-6BBDA0934E8E/iPhone12,3,iPhone12,5_16.5_20F5039e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:09.220102+00:00",
+      "signed_updated": "2026-11-27T09:05:14.893169+00:00",
       "version": "16.5 beta 2"
     },
     "20F5050f": {
@@ -1493,7 +1493,7 @@
       "first_seen": "2026-11-17T09:10:46.138160+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/032-79042/C570EF59-632A-40EE-92BC-4DCF5B26ED54/iPhone12,3,iPhone12,5_16.5_20F5050f_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:10.074807+00:00",
+      "signed_updated": "2026-11-27T09:05:15.971997+00:00",
       "version": "16.5 beta 3"
     },
     "20F5059a": {
@@ -1501,7 +1501,7 @@
       "first_seen": "2026-11-17T09:10:46.138164+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/032-79502/B9E8BCE7-01C1-4106-8393-435F92D8B4C9/iPhone12,3,iPhone12,5_16.5_20F5059a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:10.938984+00:00",
+      "signed_updated": "2026-11-27T09:05:16.736311+00:00",
       "version": "16.5 beta 4"
     },
     "20F65": {
@@ -1509,7 +1509,7 @@
       "first_seen": "2026-11-17T09:10:46.138167+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/032-38995/8EA561FF-EA4D-46EA-8889-1939CDAC1D29/iPhone12,3,iPhone12,5_16.5_20F65_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:11.919314+00:00",
+      "signed_updated": "2026-11-27T09:05:17.474252+00:00",
       "version": "16.5 RC"
     },
     "20F66": {
@@ -1517,7 +1517,7 @@
       "first_seen": "2026-11-17T09:10:46.138171+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023SpringFCS/fullrestores/032-85590/AD259FF2-B2EA-4774-B4F3-C65C0DEA6D76/iPhone12,3,iPhone12,5_16.5_20F66_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:12.859284+00:00",
+      "signed_updated": "2026-11-27T09:05:18.209747+00:00",
       "version": "16.5 RC 2"
     },
     "20F75": {
@@ -1525,7 +1525,7 @@
       "first_seen": "2026-11-17T09:10:46.138174+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023SpringFCS/fullrestores/042-02260/7B06F2CF-54B1-4610-A432-53AD0D6A80B3/iPhone12,3,iPhone12,5_16.5.1_20F75_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:13.773298+00:00",
+      "signed_updated": "2026-11-27T09:05:19.210296+00:00",
       "version": "16.5.1"
     },
     "20G5026e": {
@@ -1533,7 +1533,7 @@
       "first_seen": "2026-11-17T09:10:46.138177+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/032-86126/94765B70-D598-440E-A803-AA96BCAC6DBF/iPhone12,3,iPhone12,5_16.6_20G5026e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:14.736551+00:00",
+      "signed_updated": "2026-11-27T09:05:20.324934+00:00",
       "version": "16.6 beta"
     },
     "20G5037d": {
@@ -1541,7 +1541,7 @@
       "first_seen": "2026-11-17T09:10:46.138180+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/032-88535/27E6B809-03FD-40F7-B331-566EB9795A52/iPhone12,3,iPhone12,5_16.6_20G5037d_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:15.696263+00:00",
+      "signed_updated": "2026-11-27T09:05:20.960940+00:00",
       "version": "16.6 beta 2"
     },
     "20G5047d": {
@@ -1549,7 +1549,7 @@
       "first_seen": "2026-11-17T09:10:46.138183+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/032-93475/974802E6-9868-48FF-9C15-4258BBD66370/iPhone12,3,iPhone12,5_16.6_20G5047d_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:16.450577+00:00",
+      "signed_updated": "2026-11-27T09:05:21.674520+00:00",
       "version": "16.6 beta 3"
     },
     "20G5058d": {
@@ -1557,7 +1557,7 @@
       "first_seen": "2026-11-17T09:10:46.138186+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/042-03300/5E319EBA-7DD9-4DEA-A68B-525F75CA6DC8/iPhone12,3,iPhone12,5_16.6_20G5058d_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:17.376355+00:00",
+      "signed_updated": "2026-11-27T09:05:22.810635+00:00",
       "version": "16.6 beta 4"
     },
     "20G5070a": {
@@ -1565,7 +1565,7 @@
       "first_seen": "2026-11-17T09:10:46.138189+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/042-09629/DB928EA9-A843-4111-986E-7B9B8BAFE687/iPhone12,3,iPhone12,5_16.6_20G5070a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:18.308099+00:00",
+      "signed_updated": "2026-11-27T09:05:23.954887+00:00",
       "version": "16.6 beta 5"
     },
     "20G75": {
@@ -1573,7 +1573,7 @@
       "first_seen": "2026-11-17T09:10:46.138193+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-17386/97372F0C-C9BB-4BBC-B460-7D09EF44FC08/iPhone12,3,iPhone12,5_16.6_20G75_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:19.145625+00:00",
+      "signed_updated": "2026-11-27T09:05:25.146143+00:00",
       "version": "16.6 RC"
     },
     "20G81": {
@@ -1581,7 +1581,7 @@
       "first_seen": "2026-11-17T09:10:46.138196+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-44509/96D12947-B55B-44BB-BFA7-9231902A4A2B/iPhone12,3,iPhone12,5_16.6.1_20G81_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:19.936993+00:00",
+      "signed_updated": "2026-11-27T09:05:25.855931+00:00",
       "version": "16.6.1"
     },
     "21A329": {
@@ -1589,7 +1589,7 @@
       "first_seen": "2026-11-17T09:10:46.138214+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023FallFCS/fullrestores/042-49447/F528276C-A733-40ED-AA3F-E11966912D77/iPhone12,3,iPhone12,5_17.0_21A329_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:20.899833+00:00",
+      "signed_updated": "2026-11-27T09:05:27.032432+00:00",
       "version": "17.0 RC"
     },
     "21A340": {
@@ -1597,7 +1597,7 @@
       "first_seen": "2026-11-17T09:10:46.138217+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023FallFCS/fullrestores/042-55429/76D4C0A5-08A1-48D9-93F8-E5FF7B823E82/iPhone12,3,iPhone12,5_17.0.1_21A340_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:21.830506+00:00",
+      "signed_updated": "2026-11-27T09:05:27.677268+00:00",
       "version": "17.0.1"
     },
     "21A351": {
@@ -1605,7 +1605,7 @@
       "first_seen": "2026-11-17T09:10:46.138221+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-64873/4AFDF345-7D6E-4A82-8BA9-FFB748CBCAA1/iPhone12,3,iPhone12,5_17.0.2_21A351_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:22.839164+00:00",
+      "signed_updated": "2026-11-27T09:05:28.829215+00:00",
       "version": "17.0.2"
     },
     "21A360": {
@@ -1613,7 +1613,7 @@
       "first_seen": "2026-11-17T09:10:46.138224+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023FallFCS/fullrestores/042-72275/BB252479-DC2B-47A6-A805-18BAAB8FD6CF/iPhone12,3,iPhone12,5_17.0.3_21A360_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:23.831324+00:00",
+      "signed_updated": "2026-11-27T09:05:29.849800+00:00",
       "version": "17.0.3"
     },
     "21A5248v": {
@@ -1621,7 +1621,7 @@
       "first_seen": "2026-11-17T09:10:46.138228+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/032-94987/701A5427-B1A1-418C-87B1-620D58DB8941/iPhone12,3,iPhone12,5_17.0_21A5248v_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:24.599789+00:00",
+      "signed_updated": "2026-11-27T09:05:31.009376+00:00",
       "version": "17.0 beta"
     },
     "21A5268h": {
@@ -1629,7 +1629,7 @@
       "first_seen": "2026-11-17T09:10:46.138231+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/032-96111/8ED11828-30A3-4721-8A8A-71A04FCA6E08/iPhone12,3,iPhone12,5_17.0_21A5268h_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:25.646306+00:00",
+      "signed_updated": "2026-11-27T09:05:32.138045+00:00",
       "version": "17.0 beta 2"
     },
     "21A5277h": {
@@ -1637,7 +1637,7 @@
       "first_seen": "2026-11-17T09:10:46.138233+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/042-11871/18933490-EF70-40F4-A93E-068893DCDEE7/iPhone12,3,iPhone12,5_17.0_21A5277h_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:26.654812+00:00",
+      "signed_updated": "2026-11-27T09:05:33.352462+00:00",
       "version": "17.0 beta 3"
     },
     "21A5277j": {
@@ -1645,7 +1645,7 @@
       "first_seen": "2026-11-17T09:10:46.138236+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/042-13069/8E2532C6-2E2F-4AB9-AFB9-6D841112C846/iPhone12,3,iPhone12,5_17.0_21A5277j_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:27.540958+00:00",
+      "signed_updated": "2026-11-27T09:05:34.863312+00:00",
       "version": "17.0 beta 3"
     },
     "21A5291h": {
@@ -1653,7 +1653,7 @@
       "first_seen": "2026-11-17T09:10:46.138239+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/042-21950/92AD86DC-A651-49A2-A7EA-A97268D18363/iPhone12,3,iPhone12,5_17.0_21A5291h_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:28.390471+00:00",
+      "signed_updated": "2026-11-27T09:05:35.903678+00:00",
       "version": "17.0 beta 4"
     },
     "21A5291j": {
@@ -1661,7 +1661,7 @@
       "first_seen": "2026-11-17T09:10:46.138241+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/042-25870/7ED08639-1848-4883-AEC5-27C48B46E49E/iPhone12,3,iPhone12,5_17.0_21A5291j_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:29.281351+00:00",
+      "signed_updated": "2026-11-27T09:05:37.284534+00:00",
       "version": "17.0 beta 4"
     },
     "21A5303d": {
@@ -1669,7 +1669,7 @@
       "first_seen": "2026-11-17T09:10:46.138244+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/042-26976/A214EFCB-F721-4F0E-A5BC-FE6CDB66F6CF/iPhone12,3,iPhone12,5_17.0_21A5303d_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:30.098696+00:00",
+      "signed_updated": "2026-11-27T09:05:38.951718+00:00",
       "version": "17.0 beta 5"
     },
     "21A5312c": {
@@ -1677,7 +1677,7 @@
       "first_seen": "2026-11-17T09:10:46.138246+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/042-30052/840B30AE-498B-4149-99F8-3F1C4C464686/iPhone12,3,iPhone12,5_17.0_21A5312c_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:30.862990+00:00",
+      "signed_updated": "2026-11-27T09:05:40.105913+00:00",
       "version": "17.0 beta 6"
     },
     "21A5319a": {
@@ -1685,7 +1685,7 @@
       "first_seen": "2026-11-17T09:10:46.138249+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/042-36938/65169742-A60D-41BA-9ED8-8A87D367E36D/iPhone12,3,iPhone12,5_17.0_21A5319a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:31.834274+00:00",
+      "signed_updated": "2026-11-27T09:05:41.339715+00:00",
       "version": "17.0 beta 7"
     },
     "21A5326a": {
@@ -1693,7 +1693,7 @@
       "first_seen": "2026-11-17T09:10:46.138252+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/042-38397/7C3060CC-F83C-486F-9C5D-EF60DEAFF74E/iPhone12,3,iPhone12,5_17.0_21A5326a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:32.866467+00:00",
+      "signed_updated": "2026-11-27T09:05:42.684774+00:00",
       "version": "17.0 beta 8"
     },
     "21B101": {
@@ -1701,7 +1701,7 @@
       "first_seen": "2026-11-17T09:10:46.138255+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023FallFCS/fullrestores/052-10791/9B9ACB5E-EE6F-482F-94CD-FDCF0FB0BFEC/iPhone12,3,iPhone12,5_17.1.2_21B101_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:33.724070+00:00",
+      "signed_updated": "2026-11-27T09:05:43.807730+00:00",
       "version": "17.1.2"
     },
     "21B5045h": {
@@ -1709,7 +1709,7 @@
       "first_seen": "2026-11-17T09:10:46.138258+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023FallSeed/fullrestores/042-65202/4A503A08-45A6-4E74-9C7E-C8C6950FF4D2/iPhone12,3,iPhone12,5_17.1_21B5045h_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:34.694732+00:00",
+      "signed_updated": "2026-11-27T09:05:44.972969+00:00",
       "version": "17.1 beta"
     },
     "21B5056e": {
@@ -1717,7 +1717,7 @@
       "first_seen": "2026-11-17T09:10:46.138261+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023FallSeed/fullrestores/042-65804/96255073-7D5F-472E-85E3-D5586ED032B4/iPhone12,3,iPhone12,5_17.1_21B5056e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:35.646676+00:00",
+      "signed_updated": "2026-11-27T09:05:45.931297+00:00",
       "version": "17.1 beta 2"
     },
     "21B5066a": {
@@ -1725,7 +1725,7 @@
       "first_seen": "2026-11-17T09:10:46.138263+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023FallSeed/fullrestores/042-74206/D36F257F-3C9A-4134-9736-171C090BA766/iPhone12,3,iPhone12,5_17.1_21B5066a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:36.520037+00:00",
+      "signed_updated": "2026-11-27T09:05:47.041334+00:00",
       "version": "17.1 beta 3"
     },
     "21B74": {
@@ -1733,7 +1733,7 @@
       "first_seen": "2026-11-17T09:10:46.138266+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023FallFCS/fullrestores/042-07625/9540F667-15F1-4935-8402-043FBE14D20B/iPhone12,3,iPhone12,5_17.1_21B74_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:37.343240+00:00",
+      "signed_updated": "2026-11-27T09:05:48.106328+00:00",
       "version": "17.1 RC"
     },
     "21B91": {
@@ -1741,7 +1741,7 @@
       "first_seen": "2026-11-17T09:10:46.138271+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023FallFCS/fullrestores/042-96120/0969731E-74CC-41DA-B388-9787C631DF92/iPhone12,3,iPhone12,5_17.1.1_21B91_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:38.317151+00:00",
+      "signed_updated": "2026-11-27T09:05:49.368509+00:00",
       "version": "17.1.1"
     },
     "21C5029g": {
@@ -1749,7 +1749,7 @@
       "first_seen": "2026-11-17T09:10:46.138274+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023FallSeed/fullrestores/042-89253/033AB80B-9094-4349-B43D-A3CA454DFF07/iPhone12,3,iPhone12,5_17.2_21C5029g_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:39.220037+00:00",
+      "signed_updated": "2026-11-27T09:05:49.965541+00:00",
       "version": "17.2 beta"
     },
     "21C5040g": {
@@ -1757,7 +1757,7 @@
       "first_seen": "2026-11-17T09:10:46.138277+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023FallSeed/fullrestores/042-99581/9856ADF4-6E3E-4622-8685-5312E3EE125F/iPhone12,3,iPhone12,5_17.2_21C5040g_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:40.145007+00:00",
+      "signed_updated": "2026-11-27T09:05:50.594273+00:00",
       "version": "17.2 beta 2"
     },
     "21C5046c": {
@@ -1765,7 +1765,7 @@
       "first_seen": "2026-11-17T09:10:46.138280+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023FallSeed/fullrestores/052-03483/D302529C-59D2-40B5-8E06-9DA6EB5A14FA/iPhone12,3,iPhone12,5_17.2_21C5046c_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:41.028457+00:00",
+      "signed_updated": "2026-11-27T09:05:51.711600+00:00",
       "version": "17.2 beta 3"
     },
     "21C5054b": {
@@ -1773,7 +1773,7 @@
       "first_seen": "2026-11-17T09:10:46.138283+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023FallSeed/fullrestores/052-07459/CE05DCC6-E56B-4849-9709-DF74EF15BC53/iPhone12,3,iPhone12,5_17.2_21C5054b_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:42.030955+00:00",
+      "signed_updated": "2026-11-27T09:05:52.400599+00:00",
       "version": "17.2 beta 4"
     },
     "21C62": {
@@ -1781,7 +1781,7 @@
       "first_seen": "2026-11-17T09:10:46.138286+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023FallFCS/fullrestores/042-36631/93E2B1E5-DC72-4608-8BE4-EDBC8EC19E21/iPhone12,3,iPhone12,5_17.2_21C62_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:43.054495+00:00",
+      "signed_updated": "2026-11-27T09:05:53.516205+00:00",
       "version": "17.2 RC"
     },
     "21C66": {
@@ -1789,7 +1789,7 @@
       "first_seen": "2026-11-17T09:10:46.138290+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023FallFCS/fullrestores/052-16372/1A685222-9235-4BF3-B467-A5E74424171C/iPhone12,3,iPhone12,5_17.2.1_21C66_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:43.989457+00:00",
+      "signed_updated": "2026-11-27T09:05:54.585634+00:00",
       "version": "17.2.1"
     },
     "21D50": {
@@ -1797,7 +1797,7 @@
       "first_seen": "2026-11-17T09:10:46.138293+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024WinterFCS/fullrestores/042-81356/8F73EF7E-FDAB-4AB4-A64F-8D012CA6852C/iPhone12,3,iPhone12,5_17.3_21D50_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:45.000382+00:00",
+      "signed_updated": "2026-11-27T09:05:55.762871+00:00",
       "version": "17.3 RC"
     },
     "21D5026f": {
@@ -1805,7 +1805,7 @@
       "first_seen": "2026-11-17T09:10:46.138295+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023WinterSeed/fullrestores/052-19920/5FD49FBC-AB74-4CE5-8CD7-597723C3368B/iPhone12,3,iPhone12,5_17.3_21D5026f_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:45.845665+00:00",
+      "signed_updated": "2026-11-27T09:05:56.976645+00:00",
       "version": "17.3 beta"
     },
     "21D5036c": {
@@ -1813,7 +1813,7 @@
       "first_seen": "2026-11-17T09:10:46.138299+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2023WinterSeed/fullrestores/052-23176/8B8921E4-807D-4CF9-9B96-82053B4CF2A1/iPhone12,3,iPhone12,5_17.3_21D5036c_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:46.646870+00:00",
+      "signed_updated": "2026-11-27T09:05:58.178446+00:00",
       "version": "17.3 beta 2"
     },
     "21D5044a": {
@@ -1821,7 +1821,7 @@
       "first_seen": "2026-11-17T09:10:46.138301+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024WinterSeed/fullrestores/052-27441/831B6EDF-6AA4-4B12-AE87-C7C8DCFC02A0/iPhone12,3,iPhone12,5_17.3_21D5044a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:47.477555+00:00",
+      "signed_updated": "2026-11-27T09:05:59.295372+00:00",
       "version": "17.3 beta 3"
     },
     "21D61": {
@@ -1829,7 +1829,7 @@
       "first_seen": "2026-11-17T09:10:46.138305+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024WinterFCS/fullrestores/052-40487/90F10DD9-C40C-4CC5-A751-0D096977F13A/iPhone12,3,iPhone12,5_17.3.1_21D61_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:48.475173+00:00",
+      "signed_updated": "2026-11-27T09:06:00.491043+00:00",
       "version": "17.3.1"
     },
     "21E217": {
@@ -1837,7 +1837,7 @@
       "first_seen": "2026-11-17T09:10:46.138307+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024WinterFCS/fullrestores/032-50785/19E8AD82-178E-426A-A9D9-9CCF5F9B4A24/iPhone12,3,iPhone12,5_17.4_21E217_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:49.455895+00:00",
+      "signed_updated": "2026-11-27T09:06:01.807918+00:00",
       "version": "17.4 RC"
     },
     "21E219": {
@@ -1845,7 +1845,7 @@
       "first_seen": "2026-11-17T09:10:46.138310+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024WinterFCS/fullrestores/052-60888/B863E0EF-AA61-4A70-B9C6-2785DAEFD511/iPhone12,3,iPhone12,5_17.4_21E219_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:50.265001+00:00",
+      "signed_updated": "2026-11-27T09:06:02.867340+00:00",
       "version": "17.4"
     },
     "21E236": {
@@ -1853,7 +1853,7 @@
       "first_seen": "2026-11-17T09:10:46.138313+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024WinterFCS/fullrestores/052-72786/47E1657A-2A77-496B-96CA-AE13171CD023/iPhone12,3,iPhone12,5_17.4.1_21E236_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:51.242252+00:00",
+      "signed_updated": "2026-11-27T09:06:03.916689+00:00",
       "version": "17.4.1"
     },
     "21E237": {
@@ -1861,7 +1861,7 @@
       "first_seen": "2026-11-17T09:10:46.138316+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024WinterFCS/fullrestores/052-79668/B74922D1-E0D1-46A6-A324-A1B97DFC32F6/iPhone12,3,iPhone12,5_17.4.1_21E237_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:52.198516+00:00",
+      "signed_updated": "2026-11-27T09:06:05.343374+00:00",
       "version": "17.4.1"
     },
     "21E5184i": {
@@ -1869,7 +1869,7 @@
       "first_seen": "2026-11-17T09:10:46.138319+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024WinterSeed/fullrestores/052-39806/E243462A-A81E-4586-B1EE-054448124EA5/iPhone12,3,iPhone12,5_17.4_21E5184i_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:53.139213+00:00",
+      "signed_updated": "2026-11-27T09:06:05.985717+00:00",
       "version": "17.4 beta"
     },
     "21E5184k": {
@@ -1877,7 +1877,7 @@
       "first_seen": "2026-11-17T09:10:46.138322+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024WinterSeed/fullrestores/052-45716/4489CFC8-04A2-4211-900F-60EC8ED15726/iPhone12,3,iPhone12,5_17.4_21E5184k_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:53.909315+00:00",
+      "signed_updated": "2026-11-27T09:06:07.185899+00:00",
       "version": "17.4 beta"
     },
     "21E5195e": {
@@ -1885,7 +1885,7 @@
       "first_seen": "2026-11-17T09:10:46.138325+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024WinterSeed/fullrestores/052-47634/171BDA77-6AFC-45F5-80B6-2CC28F04AC33/iPhone12,3,iPhone12,5_17.4_21E5195e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:54.842749+00:00",
+      "signed_updated": "2026-11-27T09:06:08.244889+00:00",
       "version": "17.4 beta 2"
     },
     "21E5200d": {
@@ -1893,7 +1893,7 @@
       "first_seen": "2026-11-17T09:10:46.138327+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024WinterSeed/fullrestores/052-52406/C1796047-42D9-4F70-80A7-F86BEAE1CFAF/iPhone12,3,iPhone12,5_17.4_21E5200d_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:55.773011+00:00",
+      "signed_updated": "2026-11-27T09:06:09.376577+00:00",
       "version": "17.4 beta 3"
     },
     "21E5209b": {
@@ -1901,7 +1901,7 @@
       "first_seen": "2026-11-17T09:10:46.138330+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024WinterSeed/fullrestores/052-55922/0EEC8D7D-DFAB-42B5-B764-D3C149295138/iPhone12,3,iPhone12,5_17.4_21E5209b_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:56.368326+00:00",
+      "signed_updated": "2026-11-27T09:06:09.997448+00:00",
       "version": "17.4 beta 4"
     },
     "21F5048f": {
@@ -1909,7 +1909,7 @@
       "first_seen": "2026-11-17T09:10:46.138333+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024SpringSeed/fullrestores/052-83182/54BB670F-FFF7-4F01-9DD4-635CDBD3D80E/iPhone12,3,iPhone12,5_17.5_21F5048f_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:57.420396+00:00",
+      "signed_updated": "2026-11-27T09:06:10.626839+00:00",
       "version": "17.5 beta"
     },
     "21F5058e": {
@@ -1917,7 +1917,7 @@
       "first_seen": "2026-11-17T09:10:46.138335+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024SpringSeed/fullrestores/052-85504/5F98EA15-A45F-497C-85AC-3F6E816F0A57/iPhone12,3,iPhone12,5_17.5_21F5058e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:58.243952+00:00",
+      "signed_updated": "2026-11-27T09:06:11.746614+00:00",
       "version": "17.5 beta 2"
     },
     "21F5063f": {
@@ -1925,7 +1925,7 @@
       "first_seen": "2026-11-17T09:10:46.138338+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024SpringSeed/fullrestores/052-92139/6A7812C1-EAA7-42C1-9466-FDF81151A086/iPhone12,3,iPhone12,5_17.5_21F5063f_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:59.224973+00:00",
+      "signed_updated": "2026-11-27T09:06:12.779587+00:00",
       "version": "17.5 beta 3"
     },
     "21F5073b": {
@@ -1933,7 +1933,7 @@
       "first_seen": "2026-11-17T09:10:46.138341+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024SpringSeed/fullrestores/052-93696/0A999A32-A0E1-4B37-8072-9CD6094D69F5/iPhone12,3,iPhone12,5_17.5_21F5073b_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:34:59.738638+00:00",
+      "signed_updated": "2026-11-27T09:06:13.845086+00:00",
       "version": "17.5 beta 4"
     },
     "21F79": {
@@ -1941,7 +1941,7 @@
       "first_seen": "2026-11-17T09:10:46.138344+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024SpringFCS/fullrestores/052-39300/4FE26628-C36C-4AC4-A941-8846700C5F39/iPhone12,3,iPhone12,5_17.5_21F79_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:00.540838+00:00",
+      "signed_updated": "2026-11-27T09:06:14.923099+00:00",
       "version": "17.5 RC"
     },
     "21F90": {
@@ -1949,7 +1949,7 @@
       "first_seen": "2026-11-17T09:10:46.138347+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024SpringFCS/fullrestores/062-05319/2851398B-473D-4E33-AC83-4225B298DE6A/iPhone12,3,iPhone12,5_17.5.1_21F90_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:01.414728+00:00",
+      "signed_updated": "2026-11-27T09:06:16.196865+00:00",
       "version": "17.5.1"
     },
     "21G101": {
@@ -1957,7 +1957,7 @@
       "first_seen": "2026-11-17T09:10:46.138350+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-69610/45BEBB34-ABD0-445F-89E3-31D3786F326E/iPhone12,3,iPhone12,5_17.6.1_21G101_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:02.244569+00:00",
+      "signed_updated": "2026-11-27T09:06:17.308533+00:00",
       "version": "17.6.1"
     },
     "21G5052e": {
@@ -1965,7 +1965,7 @@
       "first_seen": "2026-11-17T09:10:46.138353+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024SpringSeed/fullrestores/062-16902/756F9071-4E97-48CE-8D80-210A96B084DE/iPhone12,3,iPhone12,5_17.6_21G5052e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:03.265928+00:00",
+      "signed_updated": "2026-11-27T09:06:18.374859+00:00",
       "version": "17.6 beta"
     },
     "21G5061c": {
@@ -1973,7 +1973,7 @@
       "first_seen": "2026-11-17T09:10:46.138356+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024SpringSeed/fullrestores/062-20453/2EC15524-4837-4ABB-AAAF-46055793AFB5/iPhone12,3,iPhone12,5_17.6_21G5061c_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:04.101362+00:00",
+      "signed_updated": "2026-11-27T09:06:19.095880+00:00",
       "version": "17.6 beta 2"
     },
     "21G5066d": {
@@ -1981,7 +1981,7 @@
       "first_seen": "2026-11-17T09:10:46.138359+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024SpringSeed/fullrestores/062-28412/60CB3A8E-A59F-48C9-8A44-185721487518/iPhone12,3,iPhone12,5_17.6_21G5066d_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:04.530178+00:00",
+      "signed_updated": "2026-11-27T09:06:19.790231+00:00",
       "version": "17.6 beta 3"
     },
     "21G5075a": {
@@ -1989,7 +1989,7 @@
       "first_seen": "2026-11-17T09:10:46.138362+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024SpringSeed/fullrestores/062-35950/38CD58F4-9A17-4AC0-A024-7FF85322ED80/iPhone12,3,iPhone12,5_17.6_21G5075a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:04.950231+00:00",
+      "signed_updated": "2026-11-27T09:06:20.880215+00:00",
       "version": "17.6 beta 4"
     },
     "21G79": {
@@ -1997,7 +1997,7 @@
       "first_seen": "2026-11-17T09:10:46.138365+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-70016/681C7EAB-1B3C-41CD-8D1B-481C6C8D29C8/iPhone12,3,iPhone12,5_17.6_21G79_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:05.924478+00:00",
+      "signed_updated": "2026-11-27T09:06:21.958141+00:00",
       "version": "17.6 RC"
     },
     "21G80": {
@@ -2005,7 +2005,7 @@
       "first_seen": "2026-11-17T09:10:46.138368+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-44763/CDD905B0-CCC8-4241-8FA3-5AD225EA5197/iPhone12,3,iPhone12,5_17.6_21G80_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:06.796109+00:00",
+      "signed_updated": "2026-11-27T09:06:23.002385+00:00",
       "version": "17.6"
     },
     "21G93": {
@@ -2013,7 +2013,7 @@
       "first_seen": "2026-11-17T09:10:46.138371+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-57701/B292F1F4-1B75-43A8-9A41-DBF7FEDE1DBC/iPhone12,3,iPhone12,5_17.6.1_21G93_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:07.745518+00:00",
+      "signed_updated": "2026-11-27T09:06:24.057344+00:00",
       "version": "17.6.1"
     },
     "21H16": {
@@ -2021,7 +2021,7 @@
       "first_seen": "2026-11-17T09:10:46.138373+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/062-79021/D1C2EDBF-4F40-407A-B2C5-C0D92E0FA251/iPhone12,3,iPhone12,5_17.7_21H16_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:08.702212+00:00",
+      "signed_updated": "2026-11-27T09:06:25.132371+00:00",
       "version": "17.7 RC"
     },
     "22A3354": {
@@ -2029,7 +2029,7 @@
       "first_seen": "2026-11-17T09:10:46.138379+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/062-77903/E2B9E97C-7082-4B68-ACA2-17E90AA3FDBD/iPhone12,3,iPhone12,5_18.0_22A3354_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:09.604823+00:00",
+      "signed_updated": "2026-11-27T09:06:26.248608+00:00",
       "version": "18.0 RC"
     },
     "22A3370": {
@@ -2037,7 +2037,7 @@
       "first_seen": "2026-11-17T09:10:46.138387+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-02624/68CAD4B0-C8C4-4E4F-B5F6-5D6579D50325/iPhone12,3,iPhone12,5_18.0.1_22A3370_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:10.104668+00:00",
+      "signed_updated": "2026-11-27T09:06:27.379646+00:00",
       "version": "18.0.1"
     },
     "22A5282m": {
@@ -2045,7 +2045,7 @@
       "first_seen": "2026-11-17T09:10:46.138391+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024SummerSeed/fullrestores/052-34151/AE13D104-A9B3-496D-8164-229D81141C5E/iPhone12,3,iPhone12,5_18.0_22A5282m_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:11.053106+00:00",
+      "signed_updated": "2026-11-27T09:06:30.005666+00:00",
       "version": "18.0 beta"
     },
     "22A5297f": {
@@ -2053,7 +2053,7 @@
       "first_seen": "2026-11-17T09:10:46.138394+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024SummerSeed/fullrestores/062-18366/86783C59-294B-488B-952A-5FF7F09BB542/iPhone12,3,iPhone12,5_18.0_22A5297f_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:12.055748+00:00",
+      "signed_updated": "2026-11-27T09:06:31.097864+00:00",
       "version": "18.0 beta 2"
     },
     "22A5307f": {
@@ -2061,7 +2061,7 @@
       "first_seen": "2026-11-17T09:10:46.138397+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024SummerSeed/fullrestores/062-25761/47048BE7-E6B7-49B1-8817-7796E02C37EC/iPhone12,3,iPhone12,5_18.0_22A5307f_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:13.008059+00:00",
+      "signed_updated": "2026-11-27T09:06:31.745136+00:00",
       "version": "18.0 beta 3"
     },
     "22A5307i": {
@@ -2069,7 +2069,7 @@
       "first_seen": "2026-11-17T09:10:46.138400+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024SummerSeed/fullrestores/062-01750/0A3D0BCE-1FDF-474D-AEE5-CFB1128C35D1/iPhone12,3,iPhone12,5_18.0_22A5307i_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:14.268249+00:00",
+      "signed_updated": "2026-11-27T09:06:32.426945+00:00",
       "version": "18.0 beta 3"
     },
     "22A5316j": {
@@ -2077,7 +2077,7 @@
       "first_seen": "2026-11-17T09:10:46.138403+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024SummerSeed/fullrestores/062-42351/3D8A455F-5B00-4482-ACBE-40C823827895/iPhone12,3,iPhone12,5_18.0_22A5316j_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:15.183590+00:00",
+      "signed_updated": "2026-11-27T09:06:33.251246+00:00",
       "version": "18.0 beta 4"
     },
     "22A5316k": {
@@ -2085,7 +2085,7 @@
       "first_seen": "2026-11-17T09:10:46.138405+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024SummerSeed/fullrestores/062-46620/B9ED5209-60E0-4389-BD6E-065C77B62CD2/iPhone12,3,iPhone12,5_18.0_22A5316k_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:16.158173+00:00",
+      "signed_updated": "2026-11-27T09:06:35.634504+00:00",
       "version": "18.0 beta 4"
     },
     "22A5326f": {
@@ -2093,7 +2093,7 @@
       "first_seen": "2026-11-17T09:10:46.138408+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024SummerSeed/fullrestores/062-56125/B841D50D-8D2F-437F-A675-521051392B84/iPhone12,3,iPhone12,5_18.0_22A5326f_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:17.033695+00:00",
+      "signed_updated": "2026-11-27T09:06:36.836100+00:00",
       "version": "18.0 beta 5"
     },
     "22A5338b": {
@@ -2101,7 +2101,7 @@
       "first_seen": "2026-11-17T09:10:46.138411+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024SummerSeed/fullrestores/062-58942/351581BF-FC30-48F9-9C30-AC5CCF5A5166/iPhone12,3,iPhone12,5_18.0_22A5338b_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:18.052055+00:00",
+      "signed_updated": "2026-11-27T09:06:37.510073+00:00",
       "version": "18.0 beta 6"
     },
     "22A5346a": {
@@ -2109,7 +2109,7 @@
       "first_seen": "2026-11-17T09:10:46.138415+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024SummerSeed/fullrestores/062-64428/2FE6A806-2D95-43D3-9CCE-3A649DFE3A24/iPhone12,3,iPhone12,5_18.0_22A5346a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:18.960407+00:00",
+      "signed_updated": "2026-11-27T09:06:38.663345+00:00",
       "version": "18.0 beta 7"
     },
     "22A5350a": {
@@ -2117,7 +2117,7 @@
       "first_seen": "2026-11-17T09:10:46.138417+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024SummerSeed/fullrestores/062-71620/FF13525F-410A-4AC3-8298-17FFD0EFD951/iPhone12,3,iPhone12,5_18.0_22A5350a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:20.013483+00:00",
+      "signed_updated": "2026-11-27T09:06:41.014380+00:00",
       "version": "18.0 beta 8"
     },
     "22B5045g": {
@@ -2125,7 +2125,7 @@
       "first_seen": "2026-11-17T09:10:46.138422+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024FallSeed/fullrestores/062-81418/4808461A-3B7B-45BE-9656-F18A1844F8B7/iPhone12,3,iPhone12,5_18.1_22B5045g_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:20.832332+00:00",
+      "signed_updated": "2026-11-27T09:06:41.993902+00:00",
       "version": "18.1 beta 4"
     },
     "22B5054e": {
@@ -2133,7 +2133,7 @@
       "first_seen": "2026-11-17T09:10:46.138426+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024FallSeed/fullrestores/062-91374/E5EF5202-63EC-4DC9-B710-0637D3352B36/iPhone12,3,iPhone12,5_18.1_22B5054e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:21.794389+00:00",
+      "signed_updated": "2026-11-27T09:06:42.822274+00:00",
       "version": "18.1 beta 5"
     },
     "22B5069a": {
@@ -2141,7 +2141,7 @@
       "first_seen": "2026-11-17T09:10:46.138429+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024FallSeed/fullrestores/072-00571/44EBE1D9-20D4-4B02-BCD0-7D9A61E60AB0/iPhone12,3,iPhone12,5_18.1_22B5069a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:22.819922+00:00",
+      "signed_updated": "2026-11-27T09:06:43.641650+00:00",
       "version": "18.1 beta 6"
     },
     "22B5075a": {
@@ -2149,7 +2149,7 @@
       "first_seen": "2026-11-17T09:10:46.138433+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024FallSeed/fullrestores/072-05784/1EF06BE0-9B7F-44F0-98A9-B76F4D949B7E/iPhone12,3,iPhone12,5_18.1_22B5075a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:23.683885+00:00",
+      "signed_updated": "2026-11-27T09:06:44.462225+00:00",
       "version": "18.1 beta 7"
     },
     "22B82": {
@@ -2157,7 +2157,7 @@
       "first_seen": "2026-11-17T09:10:46.138436+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/062-24407/131B6F16-2769-48C5-A251-48E7C299D564/iPhone12,3,iPhone12,5_18.1_22B82_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:24.620638+00:00",
+      "signed_updated": "2026-11-27T09:06:45.360673+00:00",
       "version": "18.1 RC"
     },
     "22B83": {
@@ -2165,7 +2165,7 @@
       "first_seen": "2026-11-17T09:10:46.138440+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-12506/8D3EC3D7-5A75-40C8-A104-E8FFCC5740F7/iPhone12,3,iPhone12,5_18.1_22B83_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:25.116118+00:00",
+      "signed_updated": "2026-11-27T09:06:46.115351+00:00",
       "version": "18.1"
     },
     "22B91": {
@@ -2173,7 +2173,7 @@
       "first_seen": "2026-11-17T09:10:46.138443+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-30396/BE02C350-F920-444F-B7CD-E4E5F1E4D79B/iPhone12,3,iPhone12,5_18.1.1_22B91_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:26.103384+00:00",
+      "signed_updated": "2026-11-27T09:06:47.014137+00:00",
       "version": "18.1.1"
     },
     "22C150": {
@@ -2181,7 +2181,7 @@
       "first_seen": "2026-11-17T09:10:46.138446+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/052-83834/0830B800-FC83-4A23-9380-D13EABD64AA1/iPhone12,3,iPhone12,5_18.2_22C150_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:27.956890+00:00",
+      "signed_updated": "2026-11-27T09:06:47.771753+00:00",
       "version": "18.2 RC"
     },
     "22C151": {
@@ -2189,7 +2189,7 @@
       "first_seen": "2026-11-17T09:10:46.138449+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-39076/9E058D43-35AA-4B9D-BD5E-4E27FA3AFDBF/iPhone12,3,iPhone12,5_18.2_22C151_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:29.508936+00:00",
+      "signed_updated": "2026-11-27T09:06:48.327134+00:00",
       "version": "18.2 RC 2"
     },
     "22C152": {
@@ -2197,7 +2197,7 @@
       "first_seen": "2026-11-17T09:10:46.138451+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-43173/9B04F9C9-CAC7-4B74-88F7-282F98AA54ED/iPhone12,3,iPhone12,5_18.2_22C152_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:33.058622+00:00",
+      "signed_updated": "2026-11-27T09:06:49.092029+00:00",
       "version": "18.2"
     },
     "22C161": {
@@ -2205,7 +2205,7 @@
       "first_seen": "2026-11-17T09:10:46.138455+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-56000/8475F789-7D9E-4676-8344-803B762D1F3C/iPhone12,3,iPhone12,5_18.2.1_22C161_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:33.931972+00:00",
+      "signed_updated": "2026-11-27T09:06:49.897859+00:00",
       "version": "18.2.1"
     },
     "22C5125e": {
@@ -2213,7 +2213,7 @@
       "first_seen": "2026-11-17T09:10:46.138459+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024FallSeed/fullrestores/072-10953/BDF6F6B5-B28B-46ED-BA60-EFA86ED1235E/iPhone12,3,iPhone12,5_18.2_22C5125e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:35.066627+00:00",
+      "signed_updated": "2026-11-27T09:06:50.753576+00:00",
       "version": "18.2 beta 2"
     },
     "22C5131e": {
@@ -2221,7 +2221,7 @@
       "first_seen": "2026-11-17T09:10:46.138462+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024FallSeed/fullrestores/072-23968/CC54B57C-2675-4DEE-89DF-115AA1943CC8/iPhone12,3,iPhone12,5_18.2_22C5131e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:36.207829+00:00",
+      "signed_updated": "2026-11-27T09:06:51.517141+00:00",
       "version": "18.2 beta 3"
     },
     "22C5142a": {
@@ -2229,7 +2229,7 @@
       "first_seen": "2026-11-17T09:10:46.138465+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2024FallSeed/fullrestores/072-34902/21723DCB-6EB4-49DD-B412-42DA2B9DA46F/iPhone12,3,iPhone12,5_18.2_22C5142a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:37.096528+00:00",
+      "signed_updated": "2026-11-27T09:06:52.563548+00:00",
       "version": "18.2 beta 4"
     },
     "22D5034e": {
@@ -2237,7 +2237,7 @@
       "first_seen": "2026-11-17T09:10:46.138468+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025WinterSeed/fullrestores/072-18663/F1C67653-436F-4E77-B28E-C837498457A6/iPhone12,3,iPhone12,5_18.3_22D5034e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:37.998745+00:00",
+      "signed_updated": "2026-11-27T09:06:53.400810+00:00",
       "version": "18.3 beta"
     },
     "22D5040d": {
@@ -2245,7 +2245,7 @@
       "first_seen": "2026-11-17T09:10:46.138471+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025WinterSeed/fullrestores/072-51508/A41F64F8-211A-4988-9B33-B53EB91C68F5/iPhone12,3,iPhone12,5_18.3_22D5040d_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:38.941616+00:00",
+      "signed_updated": "2026-11-27T09:06:54.217823+00:00",
       "version": "18.3 beta 2"
     },
     "22D5055b": {
@@ -2253,7 +2253,7 @@
       "first_seen": "2026-11-17T09:10:46.138474+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025WinterSeed/fullrestores/072-61844/884869DE-BE22-4F3E-9E9F-B3E3C1BC798A/iPhone12,3,iPhone12,5_18.3_22D5055b_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:39.848252+00:00",
+      "signed_updated": "2026-11-27T09:06:55.014986+00:00",
       "version": "18.3 beta 3"
     },
     "22D60": {
@@ -2261,7 +2261,7 @@
       "first_seen": "2026-11-17T09:10:46.138478+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-07801/1CB27E77-A1BE-4FE1-82FC-5689368627CF/iPhone12,3,iPhone12,5_18.3_22D60_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:40.806649+00:00",
+      "signed_updated": "2026-11-27T09:06:55.801648+00:00",
       "version": "18.3 RC"
     },
     "22D63": {
@@ -2269,7 +2269,7 @@
       "first_seen": "2026-11-17T09:10:46.138481+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-67519/2594F995-4FF9-4C6E-B181-C264A190AC4F/iPhone12,3,iPhone12,5_18.3_22D63_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:41.674988+00:00",
+      "signed_updated": "2026-11-27T09:06:56.683113+00:00",
       "version": "18.3"
     },
     "22D64": {
@@ -2277,7 +2277,7 @@
       "first_seen": "2026-11-17T09:10:46.138484+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-73032/97331200-DED8-41F9-A498-83A19FE3C055/iPhone12,3,iPhone12,5_18.3_22D64_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:42.172234+00:00",
+      "signed_updated": "2026-11-27T09:06:57.498899+00:00",
       "version": "18.3"
     },
     "22D72": {
@@ -2285,7 +2285,7 @@
       "first_seen": "2026-11-17T09:10:46.138487+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-84751/97EC31F0-BE7F-4212-9F42-A90E424F95BF/iPhone12,3,iPhone12,5_18.3.1_22D72_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:43.118960+00:00",
+      "signed_updated": "2026-11-27T09:06:57.904887+00:00",
       "version": "18.3.1"
     },
     "22D82": {
@@ -2293,7 +2293,7 @@
       "first_seen": "2026-11-17T09:10:46.138492+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-03600/59AA2A1B-A33C-454E-9829-18BD7E66596F/iPhone12,3,iPhone12,5_18.3.2_22D82_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:44.056763+00:00",
+      "signed_updated": "2026-11-27T09:06:58.858604+00:00",
       "version": "18.3.2"
     },
     "22E239": {
@@ -2301,7 +2301,7 @@
       "first_seen": "2026-11-17T09:10:46.138495+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025SpringFCS/fullrestores/082-12465/29635452-6175-4F53-86CB-8729EA41EDF1/iPhone12,3,iPhone12,5_18.4_22E239_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:44.942380+00:00",
+      "signed_updated": "2026-11-27T09:06:59.721585+00:00",
       "version": "18.4 RC"
     },
     "22E240": {
@@ -2309,7 +2309,7 @@
       "first_seen": "2026-11-17T09:10:46.138498+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025SpringFCS/fullrestores/082-15843/BDD88763-DC3F-4DB6-B82D-133EAB3E5F49/iPhone12,3,iPhone12,5_18.4_22E240_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:45.575560+00:00",
+      "signed_updated": "2026-11-27T09:07:00.592825+00:00",
       "version": "18.4 RC 2"
     },
     "22E252": {
@@ -2317,7 +2317,7 @@
       "first_seen": "2026-11-17T09:10:46.138500+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025SpringFCS/fullrestores/082-30986/19344EB5-D5B5-40C0-A5F7-6C638AF45CF2/iPhone12,3,iPhone12,5_18.4.1_22E252_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:46.458010+00:00",
+      "signed_updated": "2026-11-27T09:07:01.062909+00:00",
       "version": "18.4.1"
     },
     "22E5200s": {
@@ -2325,7 +2325,7 @@
       "first_seen": "2026-11-17T09:10:46.138503+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025WinterSeed/fullrestores/072-91788/E63FFD63-0693-4B3D-A24D-AB25B5A8E662/iPhone12,3,iPhone12,5_18.4_22E5200s_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:47.395248+00:00",
+      "signed_updated": "2026-11-27T09:07:01.896613+00:00",
       "version": "18.4 beta"
     },
     "22E5216h": {
@@ -2333,7 +2333,7 @@
       "first_seen": "2026-11-17T09:10:46.138506+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025WinterSeed/fullrestores/072-92880/B3C8DAFB-F08A-4B8F-BA8C-AC8E69A63920/iPhone12,3,iPhone12,5_18.4_22E5216h_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:48.331597+00:00",
+      "signed_updated": "2026-11-27T09:07:02.754990+00:00",
       "version": "18.4 beta 2"
     },
     "22E5222f": {
@@ -2341,7 +2341,7 @@
       "first_seen": "2026-11-17T09:10:46.138509+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025WinterSeed/fullrestores/072-98299/A21CC166-0855-4C1E-848A-A87EAA4438C1/iPhone12,3,iPhone12,5_18.4_22E5222f_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:49.329800+00:00",
+      "signed_updated": "2026-11-27T09:07:03.661957+00:00",
       "version": "18.4 beta 3"
     },
     "22E5232a": {
@@ -2349,7 +2349,7 @@
       "first_seen": "2026-11-17T09:10:46.138512+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025WinterSeed/fullrestores/082-07002/1F5855FB-3B39-4362-B2AE-D6F78B976347/iPhone12,3,iPhone12,5_18.4_22E5232a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:50.343971+00:00",
+      "signed_updated": "2026-11-27T09:07:04.564590+00:00",
       "version": "18.4 beta 4"
     },
     "22F5042g": {
@@ -2357,7 +2357,7 @@
       "first_seen": "2026-11-17T09:10:46.138514+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025SpringSeed/fullrestores/072-95470/95639078-4183-43AF-AA5A-6E2D1FAC41CB/iPhone12,3,iPhone12,5_18.5_22F5042g_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:51.330611+00:00",
+      "signed_updated": "2026-11-27T09:07:05.611973+00:00",
       "version": "18.5 beta"
     },
     "22F5053f": {
@@ -2365,7 +2365,7 @@
       "first_seen": "2026-11-17T09:10:46.138519+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025SpringSeed/fullrestores/082-23724/F40A87A4-BB31-4BE5-BE73-397EC928C584/iPhone12,3,iPhone12,5_18.5_22F5053f_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:52.415859+00:00",
+      "signed_updated": "2026-11-27T09:07:06.404812+00:00",
       "version": "18.5 beta 2"
     },
     "22F5053j": {
@@ -2373,7 +2373,7 @@
       "first_seen": "2026-11-17T09:10:46.138522+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025WinterSeed/fullrestores/082-22606/44FB0498-0991-422F-A256-A423C103982C/iPhone12,3,iPhone12,5_18.5_22F5053j_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:53.593072+00:00",
+      "signed_updated": "2026-11-27T09:07:07.162141+00:00",
       "version": "18.5 beta 3"
     },
     "22F5068a": {
@@ -2381,7 +2381,7 @@
       "first_seen": "2026-11-17T09:10:46.138525+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025SpringSeed/fullrestores/082-38758/2F0DE0A4-CFD5-4DFA-A859-7F7EE9AF1A4B/iPhone12,3,iPhone12,5_18.5_22F5068a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:54.663144+00:00",
+      "signed_updated": "2026-11-27T09:07:07.956049+00:00",
       "version": "18.5 beta 4"
     },
     "22F75": {
@@ -2389,7 +2389,7 @@
       "first_seen": "2026-11-17T09:10:46.138528+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025SpringFCS/fullrestores/082-44513/1BFC77CA-5DD1-4C3D-BB5A-1F3A2F2FD71D/iPhone12,3,iPhone12,5_18.5_22F75_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:55.740089+00:00",
+      "signed_updated": "2026-11-27T09:07:09.052456+00:00",
       "version": "18.5 RC"
     },
     "22F76": {
@@ -2397,7 +2397,7 @@
       "first_seen": "2026-11-17T09:10:46.138531+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025SpringFCS/fullrestores/082-47092/B75B14B8-A17B-43C3-BCEF-CD707A1E5A86/iPhone12,3,iPhone12,5_18.5_22F76_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:56.866810+00:00",
+      "signed_updated": "2026-11-27T09:07:10.047310+00:00",
       "version": "18.5"
     },
     "22G100": {
@@ -2405,7 +2405,7 @@
       "first_seen": "2026-11-17T09:10:46.138534+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-21314/CCB8FB72-C635-4F50-93EC-8BE67CABC20E/iPhone12,3,iPhone12,5_18.6.2_22G100_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:58.075642+00:00",
+      "signed_updated": "2026-11-27T09:07:10.988203+00:00",
       "version": "18.6.2"
     },
     "22G5054d": {
@@ -2413,7 +2413,7 @@
       "first_seen": "2026-11-17T09:10:46.138537+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025SpringSeed/fullrestores/082-28741/73AA4D60-1146-4FCD-A4A7-758FC0D1F592/iPhone12,3,iPhone12,5_18.6_22G5054d_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:35:59.323560+00:00",
+      "signed_updated": "2026-11-27T09:07:11.877242+00:00",
       "version": "18.6 beta"
     },
     "22G5064d": {
@@ -2421,7 +2421,7 @@
       "first_seen": "2026-11-17T09:10:46.138540+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025SpringSeed/fullrestores/082-62460/F4ED1291-AB60-4431-94DF-E3C06F65D8C2/iPhone12,3,iPhone12,5_18.6_22G5064d_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:36:00.504137+00:00",
+      "signed_updated": "2026-11-27T09:07:12.809518+00:00",
       "version": "18.6 beta 2"
     },
     "22G5073b": {
@@ -2429,7 +2429,7 @@
       "first_seen": "2026-11-17T09:10:46.138543+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025SpringSeed/fullrestores/082-69897/7A202440-0064-4064-A6D8-CD65FE67B93E/iPhone12,3,iPhone12,5_18.6_22G5073b_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:36:01.607070+00:00",
+      "signed_updated": "2026-11-27T09:07:13.601730+00:00",
       "version": "18.6 beta 3"
     },
     "22G84": {
@@ -2437,7 +2437,7 @@
       "first_seen": "2026-11-17T09:10:46.138546+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025SummerFCS/fullrestores/082-08687/F3F2A164-3D59-4C94-849C-579ADB0D3511/iPhone12,3,iPhone12,5_18.6_22G84_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:36:02.638949+00:00",
+      "signed_updated": "2026-11-27T09:07:14.401822+00:00",
       "version": "18.6 RC"
     },
     "22G86": {
@@ -2445,7 +2445,7 @@
       "first_seen": "2026-11-17T09:10:46.138549+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025SummerFCS/fullrestores/082-98772/2AE604EC-5899-4FB4-9896-5B86D6B6B1E9/iPhone12,3,iPhone12,5_18.6_22G86_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:36:03.837091+00:00",
+      "signed_updated": "2026-11-27T09:07:15.314447+00:00",
       "version": "18.6"
     },
     "22G90": {
@@ -2453,7 +2453,7 @@
       "first_seen": "2026-11-17T09:10:46.138552+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025SummerFCS/fullrestores/093-07407/1DD560A8-3A23-4A72-852F-45000564693D/iPhone12,3,iPhone12,5_18.6.1_22G90_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:36:04.943736+00:00",
+      "signed_updated": "2026-11-27T09:07:16.158666+00:00",
       "version": "18.6.1"
     },
     "23A340": {
@@ -2461,7 +2461,7 @@
       "first_seen": "2026-11-17T09:10:46.138568+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/052-69567/E4D4D279-C8BE-4210-8A60-16A073D6B3A4/iPhone12,3,iPhone12,5_26.0_23A340_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:36:06.073291+00:00",
+      "signed_updated": "2026-11-27T09:07:17.034438+00:00",
       "version": "26.0 RC"
     },
     "23A341": {
@@ -2469,7 +2469,7 @@
       "first_seen": "2026-11-17T09:10:46.138572+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-40063/51F3F977-2FC8-4BF2-A9DB-2BC0D0A39B78/iPhone12,3,iPhone12,5_26.0_23A341_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:36:07.134563+00:00",
+      "signed_updated": "2026-11-27T09:07:17.875211+00:00",
       "version": "26.0"
     },
     "23A355": {
@@ -2477,7 +2477,7 @@
       "first_seen": "2026-11-17T09:10:46.138575+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-44804/921E3C8D-1CE1-4C74-899F-2829E5C29E9D/iPhone12,3,iPhone12,5_26.0.1_23A355_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:36:08.374862+00:00",
+      "signed_updated": "2026-11-27T09:07:18.663256+00:00",
       "version": "26.0.1"
     },
     "23A5260n": {
@@ -2485,7 +2485,7 @@
       "first_seen": "2026-11-17T09:10:46.138579+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025SummerSeed/fullrestores/082-57221/934AD516-A6EB-4795-9ADF-844109779022/iPhone12,3,iPhone12,5_26.0_23A5260n_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:36:09.446925+00:00",
+      "signed_updated": "2026-11-27T09:07:19.611329+00:00",
       "version": "26.0 beta"
     },
     "23A5276f": {
@@ -2493,7 +2493,7 @@
       "first_seen": "2026-11-17T09:10:46.138584+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025SummerSeed/fullrestores/082-63918/13CACE10-4C48-4DF6-996B-B84093ACBFAC/iPhone12,3,iPhone12,5_26.0_23A5276f_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:36:10.804647+00:00",
+      "signed_updated": "2026-11-27T09:07:20.434481+00:00",
       "version": "26.0 beta 2"
     },
     "23A5287g": {
@@ -2501,7 +2501,7 @@
       "first_seen": "2026-11-17T09:10:46.138587+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025SummerSeed/fullrestores/082-72870/50D0C34B-E099-445A-BC84-6F179D963332/iPhone12,3,iPhone12,5_26.0_23A5287g_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:36:11.912925+00:00",
+      "signed_updated": "2026-11-27T09:07:21.806411+00:00",
       "version": "26.0 beta 3"
     },
     "23A5297i": {
@@ -2509,7 +2509,7 @@
       "first_seen": "2026-11-17T09:10:46.138590+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025SummerSeed/fullrestores/082-89770/FE163B42-3972-4A5D-A631-B7065CA5B4B7/iPhone12,3,iPhone12,5_26.0_23A5297i_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:36:12.579772+00:00",
+      "signed_updated": "2026-11-27T09:07:22.975789+00:00",
       "version": "26.0 beta 4"
     },
     "23A5308g": {
@@ -2517,7 +2517,7 @@
       "first_seen": "2026-11-17T09:10:46.138593+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025SummerSeed/fullrestores/082-90900/2CC6512E-61F2-4C39-8E0C-BF3D7167F701/iPhone12,3,iPhone12,5_26.0_23A5308g_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:36:15.610031+00:00",
+      "signed_updated": "2026-11-27T09:07:23.876445+00:00",
       "version": "26.0 beta 5"
     },
     "23A5318c": {
@@ -2525,7 +2525,7 @@
       "first_seen": "2026-11-17T09:10:46.138596+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025SummerSeed/fullrestores/093-14181/79375552-4A66-4F69-90DD-5B00AA8BD039/iPhone12,3,iPhone12,5_26.0_23A5318c_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:36:16.913003+00:00",
+      "signed_updated": "2026-11-27T09:07:24.629621+00:00",
       "version": "26.0 beta 6"
     },
     "23A5326a": {
@@ -2533,7 +2533,7 @@
       "first_seen": "2026-11-17T09:10:46.138599+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025SummerSeed/fullrestores/093-16129/E2B67C7B-5C7E-4406-A4CC-08D13A5B516D/iPhone12,3,iPhone12,5_26.0_23A5326a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:36:19.587025+00:00",
+      "signed_updated": "2026-11-27T09:07:25.409932+00:00",
       "version": "26.0 beta 7"
     },
     "23A5330a": {
@@ -2541,7 +2541,7 @@
       "first_seen": "2026-11-17T09:10:46.138602+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025SummerSeed/fullrestores/093-23944/99C25C78-5EC8-4D65-B48F-72DE1AD8E30E/iPhone12,3,iPhone12,5_26.0_23A5330a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:36:20.721133+00:00",
+      "signed_updated": "2026-11-27T09:07:26.298212+00:00",
       "version": "26.0 beta 8"
     },
     "23A5336a": {
@@ -2549,7 +2549,7 @@
       "first_seen": "2026-11-17T09:10:46.138605+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025SummerSeed/fullrestores/093-33348/FCF3E830-010A-44B2-9D55-90BD067784A3/iPhone12,3,iPhone12,5_26.0_23A5336a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:36:21.953396+00:00",
+      "signed_updated": "2026-11-27T09:07:27.319763+00:00",
       "version": "26.0 beta 9"
     },
     "23B5044l": {
@@ -2557,7 +2557,7 @@
       "first_seen": "2026-11-17T09:10:46.138608+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025FallSeed/fullrestores/093-51575/6022D7E9-B051-40B4-A6EA-E45BAE6B021F/iPhone12,3,iPhone12,5_26.1_23B5044l_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:36:24.570644+00:00",
+      "signed_updated": "2026-11-27T09:07:28.247454+00:00",
       "version": "26.1 beta"
     },
     "23B5059e": {
@@ -2565,7 +2565,7 @@
       "first_seen": "2026-11-17T09:10:46.138613+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025FallSeed/fullrestores/093-52929/A41C6D92-F20C-4755-8E73-E4E953C227AA/iPhone12,3,iPhone12,5_26.1_23B5059e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:36:27.397798+00:00",
+      "signed_updated": "2026-11-27T09:07:29.039195+00:00",
       "version": "26.1 beta 2"
     },
     "23B5064e": {
@@ -2573,7 +2573,7 @@
       "first_seen": "2026-11-17T09:10:46.138618+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025FallSeed/fullrestores/093-77258/CA2B1A20-C35E-4551-A568-1AC138D09210/iPhone12,3,iPhone12,5_26.1_23B5064e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:36:30.119259+00:00",
+      "signed_updated": "2026-11-27T09:07:29.975604+00:00",
       "version": "26.1 beta 3"
     },
     "23B5073a": {
@@ -2581,7 +2581,7 @@
       "first_seen": "2026-11-17T09:10:46.138622+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025FallSeed/fullrestores/093-85828/BE2949D2-6CD3-4476-AF82-7C8CBF3DD822/iPhone12,3,iPhone12,5_26.1_23B5073a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:36:31.372823+00:00",
+      "signed_updated": "2026-11-27T09:07:30.873144+00:00",
       "version": "26.1 beta 4"
     },
     "23B82": {
@@ -2589,7 +2589,7 @@
       "first_seen": "2026-11-17T09:10:46.138625+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-01992/241E07B6-1B01-453C-B3B7-264873253160/iPhone12,3,iPhone12,5_26.1_23B82_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:36:32.501309+00:00",
+      "signed_updated": "2026-11-27T09:07:31.911831+00:00",
       "version": "26.1 RC"
     },
     "23B85": {
@@ -2597,7 +2597,7 @@
       "first_seen": "2026-11-17T09:10:46.138629+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-13923/36BDA70C-41F3-4B12-808E-ABA394C3947A/iPhone12,3,iPhone12,5_26.1_23B85_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:36:33.717488+00:00",
+      "signed_updated": "2026-11-27T09:07:32.857295+00:00",
       "version": "26.1"
     },
     "23C5027f": {
@@ -2605,7 +2605,7 @@
       "first_seen": "2026-11-17T09:10:46.138633+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025FallSeed/fullrestores/093-64802/9D2FAB9E-AC5D-4150-A761-DC5291F9DB21/iPhone12,3,iPhone12,5_26.2_23C5027f_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:36:34.960275+00:00",
+      "signed_updated": "2026-11-27T09:07:33.666593+00:00",
       "version": "26.2 beta"
     },
     "23C5033h": {
@@ -2613,7 +2613,7 @@
       "first_seen": "2026-11-17T09:10:46.138636+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025FallSeed/fullrestores/089-38470/7A638E51-B9BB-4224-9291-F0DE4535BC04/iPhone12,3,iPhone12,5_26.2_23C5033h_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:37:51.379630+00:00",
+      "signed_updated": "2026-11-27T09:07:34.565471+00:00",
       "version": "26.2 beta 2"
     },
     "23C5044b": {
@@ -2621,7 +2621,7 @@
       "first_seen": "2026-11-17T09:10:46.138639+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025FallSeed/fullrestores/089-42275/061375E2-C886-4912-80B1-7A7D60262413/iPhone12,3,iPhone12,5_26.2_23C5044b_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:37:52.126009+00:00",
+      "signed_updated": "2026-11-27T09:07:35.325385+00:00",
       "version": "26.2 beta 3"
     },
     "23C52": {
@@ -2629,7 +2629,7 @@
       "first_seen": "2026-11-17T09:10:46.138642+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-34943/36CB7555-9B60-420F-B8AB-3C86A4FC6F90/iPhone12,3,iPhone12,5_26.2_23C52_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:37:53.248098+00:00",
+      "signed_updated": "2026-11-27T09:07:36.409251+00:00",
       "version": "26.2 RC"
     },
     "23C54": {
@@ -2637,7 +2637,7 @@
       "first_seen": "2026-11-17T09:10:46.138645+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-79354/0B64193B-DC06-44E7-856B-F49C7811737A/iPhone12,3,iPhone12,5_26.2_23C54_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:37:54.403869+00:00",
+      "signed_updated": "2026-11-27T09:07:37.293435+00:00",
       "version": "26.2 RC 2"
     },
     "23C55": {
@@ -2645,7 +2645,7 @@
       "first_seen": "2026-11-17T09:10:46.138649+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/089-91089/2E6BDC7F-B567-4A08-8FD5-CC546A9C842B/iPhone12,3,iPhone12,5_26.2_23C55_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:37:55.442547+00:00",
+      "signed_updated": "2026-11-27T09:07:38.127104+00:00",
       "version": "26.2"
     },
     "23C71": {
@@ -2653,7 +2653,7 @@
       "first_seen": "2026-11-17T09:10:46.138652+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/047-34144/42192856-1C20-49D6-BC1A-05E57A8B7915/iPhone12,3,iPhone12,5_26.2.1_23C71_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:37:56.719326+00:00",
+      "signed_updated": "2026-11-27T09:07:39.146288+00:00",
       "version": "26.2.1"
     },
     "23D125": {
@@ -2661,7 +2661,7 @@
       "first_seen": "2026-11-17T09:10:46.138654+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-56846/DD6844A2-33CC-4E3E-BAB1-13EC3683E80A/iPhone12,3,iPhone12,5_26.3_23D125_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:37:57.779291+00:00",
+      "signed_updated": "2026-11-27T09:07:39.893215+00:00",
       "version": "26.3 RC"
     },
     "23D127": {
@@ -2669,7 +2669,7 @@
       "first_seen": "2026-11-17T09:10:46.138657+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/089-65626/66B36914-AFB6-4BA7-BF83-2BCE4A202DD7/iPhone12,3,iPhone12,5_26.3_23D127_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:37:58.842426+00:00",
+      "signed_updated": "2026-11-27T09:07:40.720646+00:00",
       "version": "26.3"
     },
     "23D5089e": {
@@ -2677,7 +2677,7 @@
       "first_seen": "2026-11-17T09:10:46.138664+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026WinterSeed/fullrestores/089-97802/095864A4-896B-46CA-B661-3EBA3342C383/iPhone12,3,iPhone12,5_26.3_23D5089e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:00.258765+00:00",
+      "signed_updated": "2026-11-27T09:07:41.676556+00:00",
       "version": "26.3 beta"
     },
     "23D5103d": {
@@ -2685,7 +2685,7 @@
       "first_seen": "2026-11-17T09:10:46.138666+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026WinterSeed/fullrestores/047-21859/2011CC82-0480-426A-990F-6448B049E996/iPhone12,3,iPhone12,5_26.3_23D5103d_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:01.002217+00:00",
+      "signed_updated": "2026-11-27T09:07:42.543439+00:00",
       "version": "26.3 beta 2"
     },
     "23D5114d": {
@@ -2693,7 +2693,7 @@
       "first_seen": "2026-11-17T09:10:46.138669+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026WinterSeed/fullrestores/047-43240/AF7870E4-34F5-4633-8D83-2E97DA2DED52/iPhone12,3,iPhone12,5_26.3_23D5114d_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:02.221078+00:00",
+      "signed_updated": "2026-11-27T09:07:43.534271+00:00",
       "version": "26.3 beta 3"
     },
     "23D8133": {
@@ -2701,7 +2701,7 @@
       "first_seen": "2026-11-17T09:10:46.138672+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-89600/E9725A72-8490-4F96-B8A0-FD98DB3DC569/iPhone12,3,iPhone12,5_26.3.1_23D8133_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:03.388343+00:00",
+      "signed_updated": "2026-11-27T09:07:44.412339+00:00",
       "version": "26.3.1"
     },
     "23E244": {
@@ -2709,7 +2709,7 @@
       "first_seen": "2026-11-17T09:10:46.138675+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026SpringFCS/fullrestores/122-03650/BD18E036-F59F-4D29-8892-2A98C35AB7B1/iPhone12,3,iPhone12,5_26.4_23E244_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:04.530346+00:00",
+      "signed_updated": "2026-11-27T09:07:44.892938+00:00",
       "version": "26.4 RC"
     },
     "23E246": {
@@ -2717,7 +2717,7 @@
       "first_seen": "2026-11-17T09:10:46.138678+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026SpringFCS/fullrestores/122-00790/E0332007-F23F-4868-A15F-916A919CFE52/iPhone12,3,iPhone12,5_26.4_23E246_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:05.704523+00:00",
+      "signed_updated": "2026-11-27T09:07:45.793572+00:00",
       "version": "26.4"
     },
     "23E254": {
@@ -2725,7 +2725,7 @@
       "first_seen": "2026-11-17T09:10:46.138680+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026SpringFCS/fullrestores/122-28554/06391156-2B3F-4378-9B57-D9F30D43D26D/iPhone12,3,iPhone12,5_26.4.1_23E254_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:07.102687+00:00",
+      "signed_updated": "2026-11-27T09:07:46.776342+00:00",
       "version": "26.4.1"
     },
     "23E261": {
@@ -2733,7 +2733,7 @@
       "first_seen": "2026-11-17T09:10:46.138683+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026SpringFCS/fullrestores/122-60812/2F6C6CD9-5FA2-4DA3-B7B5-78CF54860883/iPhone12,3,iPhone12,5_26.4.2_23E261_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:08.182486+00:00",
+      "signed_updated": "2026-11-27T09:07:47.752526+00:00",
       "version": "26.4.2"
     },
     "23E5207q": {
@@ -2741,7 +2741,7 @@
       "first_seen": "2026-11-17T09:10:46.138686+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026WinterSeed/fullrestores/089-95501/2427911B-9695-40D2-B7E1-C04B15ED2765/iPhone12,3,iPhone12,5_26.4_23E5207q_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:08.891724+00:00",
+      "signed_updated": "2026-11-27T09:07:48.730296+00:00",
       "version": "26.4 beta"
     },
     "23E5218e": {
@@ -2749,7 +2749,7 @@
       "first_seen": "2026-11-17T09:10:46.138696+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026WinterSeed/fullrestores/047-67377/6583AC64-A5AC-4AFD-8DDB-E15A98279064/iPhone12,3,iPhone12,5_26.4_23E5218e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:09.657010+00:00",
+      "signed_updated": "2026-11-27T09:07:49.672720+00:00",
       "version": "26.4 beta 2"
     },
     "23E5223f": {
@@ -2757,7 +2757,7 @@
       "first_seen": "2026-11-17T09:10:46.138700+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026WinterSeed/fullrestores/047-89380/41646F4C-36E7-41E7-A6B8-AE21AA0ECF69/iPhone12,3,iPhone12,5_26.4_23E5223f_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:10.842689+00:00",
+      "signed_updated": "2026-11-27T09:07:50.591347+00:00",
       "version": "26.4 beta 3"
     },
     "23E5223k": {
@@ -2765,7 +2765,7 @@
       "first_seen": "2026-11-17T09:10:46.138703+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026WinterSeed/fullrestores/047-84552/A950E5A5-054D-4CFC-99CA-D887955FB7F0/iPhone12,3,iPhone12,5_26.4_23E5223k_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:12.035174+00:00",
+      "signed_updated": "2026-11-27T09:07:51.421328+00:00",
       "version": "26.4 beta 3"
     },
     "23E5234a": {
@@ -2773,7 +2773,7 @@
       "first_seen": "2026-11-17T09:10:46.138705+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026WinterSeed/fullrestores/047-86247/2FEBDEBC-E1B8-4320-A800-E51C95FD9C10/iPhone12,3,iPhone12,5_26.4_23E5234a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:13.244113+00:00",
+      "signed_updated": "2026-11-27T09:07:52.300984+00:00",
       "version": "26.4 beta 4"
     },
     "23F5043g": {
@@ -2781,7 +2781,7 @@
       "first_seen": "2026-11-17T09:10:46.138707+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026SpringSeed/fullrestores/122-22004/8428555A-E539-4071-8004-5DA41A2E61C4/iPhone12,3,iPhone12,5_26.5_23F5043g_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:14.407418+00:00",
+      "signed_updated": "2026-11-27T09:07:53.149856+00:00",
       "version": "26.5 beta"
     },
     "23F5043k": {
@@ -2789,7 +2789,7 @@
       "first_seen": "2026-11-17T09:10:46.138710+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026SpringSeed/fullrestores/122-26793/C79C29F2-CD71-4A35-AF39-E71AA4470242/iPhone12,3,iPhone12,5_26.5_23F5043k_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:15.648350+00:00",
+      "signed_updated": "2026-11-27T09:07:54.043685+00:00",
       "version": "26.5 beta"
     },
     "23F5054d": {
@@ -2797,7 +2797,7 @@
       "first_seen": "2026-11-17T09:10:46.138712+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026SpringSeed/fullrestores/122-37932/E0A11C12-77A6-4031-9FD8-80427F2CD720/iPhone12,3,iPhone12,5_26.5_23F5054d_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:18.101003+00:00",
+      "signed_updated": "2026-11-27T09:07:54.848133+00:00",
       "version": "26.5 beta 2"
     },
     "23F5054h": {
@@ -2805,7 +2805,7 @@
       "first_seen": "2026-11-17T09:10:46.138715+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026SpringSeed/fullrestores/122-42715/61B9679A-D599-41C5-B663-D9FD309865AE/iPhone12,3,iPhone12,5_26.5_23F5054h_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:19.307244+00:00",
+      "signed_updated": "2026-11-27T09:07:55.675191+00:00",
       "version": "26.5 beta 2"
     },
     "23F5059e": {
@@ -2813,7 +2813,7 @@
       "first_seen": "2026-11-17T09:10:46.138717+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026SpringSeed/fullrestores/122-56027/A7AD5E12-04F4-4CFC-99A1-C031E722384A/iPhone12,3,iPhone12,5_26.5_23F5059e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:19.958161+00:00",
+      "signed_updated": "2026-11-27T09:07:56.513845+00:00",
       "version": "26.5 beta 3"
     },
     "23F5069b": {
@@ -2821,7 +2821,7 @@
       "first_seen": "2026-11-17T09:10:46.138720+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026SpringSeed/fullrestores/122-71710/D904A7DC-5A7D-44CC-93F4-075F3CF38B2A/iPhone12,3,iPhone12,5_26.5_23F5069b_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:21.063892+00:00",
+      "signed_updated": "2026-11-27T09:07:57.425264+00:00",
       "version": "26.5 beta 4"
     },
     "23F75": {
@@ -2829,7 +2829,7 @@
       "first_seen": "2026-11-17T09:10:46.138722+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026SpringFCS/fullrestores/122-62999/6B8FD7A3-BCFE-4C0C-832F-17F7EFBD41EF/iPhone12,3,iPhone12,5_26.5_23F75_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:22.141672+00:00",
+      "signed_updated": "2026-11-27T09:07:58.328616+00:00",
       "version": "26.5 RC"
     },
     "23F77": {
@@ -2837,7 +2837,7 @@
       "first_seen": "2026-11-17T09:10:46.138725+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026SpringFCS/fullrestores/122-61928/365999B0-3852-45B2-9CB5-675A9C2CA42A/iPhone12,3,iPhone12,5_26.5_23F77_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:23.401309+00:00",
+      "signed_updated": "2026-11-27T09:07:58.852220+00:00",
       "version": "26.5 RC 2"
     },
     "23F84": {
@@ -2845,7 +2845,7 @@
       "first_seen": "2026-11-17T09:10:46.138729+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026SpringFCS/fullrestores/140-25381/6ABE5EEB-511D-4DF4-AB43-FE86D0A7718A/iPhone12,3,iPhone12,5_26.5.2_23F84_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:24.577528+00:00",
+      "signed_updated": "2026-11-27T09:07:59.950485+00:00",
       "version": "26.5.2"
     },
     "23G5028e": {
@@ -2853,7 +2853,7 @@
       "first_seen": "2026-11-17T09:10:46.138731+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026SpringSeed/fullrestores/122-81434/AAA71F1C-521D-4258-89B8-3FB83C06DAB5/iPhone12,3,iPhone12,5_26.6_23G5028e_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:25.715482+00:00",
+      "signed_updated": "2026-11-27T09:08:00.906078+00:00",
       "version": "26.6 beta"
     },
     "23G5043d": {
@@ -2861,7 +2861,7 @@
       "first_seen": "2026-11-17T09:10:46.138734+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026SpringSeed/fullrestores/140-03048/520FEB3B-84FE-4488-A51D-3670DB68F484/iPhone12,3,iPhone12,5_26.6_23G5043d_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:26.971318+00:00",
+      "signed_updated": "2026-11-27T09:08:01.901957+00:00",
       "version": "26.6 beta 2"
     },
     "23G5052d": {
@@ -2869,7 +2869,7 @@
       "first_seen": "2026-11-17T09:10:46.138736+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026SpringSeed/fullrestores/140-24381/0C2D3528-D09A-43A1-A460-0ED994B2F651/iPhone12,3,iPhone12,5_26.6_23G5052d_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:29.645014+00:00",
+      "signed_updated": "2026-11-27T09:08:02.800981+00:00",
       "version": "26.6 beta 3"
     },
     "23G5057c": {
@@ -2877,7 +2877,7 @@
       "first_seen": "2026-11-17T09:10:46.138739+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026SpringSeed/fullrestores/140-31650/B110A3E6-0AAB-4A14-B35F-00945E68BB18/iPhone12,3,iPhone12,5_26.6_23G5057c_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:32.355020+00:00",
+      "signed_updated": "2026-11-27T09:08:03.678052+00:00",
       "version": "26.6 beta 4"
     },
     "23G5065a": {
@@ -2885,7 +2885,7 @@
       "first_seen": "2026-11-17T09:10:46.138742+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026SpringSeed/fullrestores/140-44480/92E39046-010F-4319-AD38-2EDE2C744EFC/iPhone12,3,iPhone12,5_26.6_23G5065a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:33.486101+00:00",
+      "signed_updated": "2026-11-27T09:08:04.482938+00:00",
       "version": "26.6 beta 5"
     },
     "23G71": {
@@ -2893,7 +2893,7 @@
       "first_seen": "2026-11-17T09:10:46.138744+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57544/1D8C93F5-B8DA-4269-9331-FB6889AECE22/iPhone12,3,iPhone12,5_26.6_23G71_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:34.496853+00:00",
+      "signed_updated": "2026-11-27T09:08:05.687940+00:00",
       "version": "26.6 RC"
     },
     "23G82": {
@@ -2909,7 +2909,7 @@
       "first_seen": "2026-11-17T09:10:46.138750+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93806/8CC6D313-C474-41E5-973C-E4DCF7E127FF/iPhone12,3,iPhone12,5_26.6.1_23G83_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:35.674128+00:00",
+      "signed_updated": "2026-11-27T09:08:06.501217+00:00",
       "version": "26.6.1"
     },
     "23G90": {
@@ -2917,7 +2917,7 @@
       "first_seen": "2026-11-17T09:10:46.138754+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026SummerFCS/c377a23f-a248-44fb-b9ee-121a408c4382/iPhone12,3,iPhone12,5_26.6.2_23G90_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:36.772132+00:00",
+      "signed_updated": "2026-11-27T09:08:07.482596+00:00",
       "version": "26.6.2"
     },
     "24A435": {
@@ -2925,7 +2925,7 @@
       "first_seen": "2026-11-17T09:10:46.138761+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026FallFCS/1be36d9d-123f-433a-8693-68c461ae1ed8/iPhone12,3,iPhone12,5_27.0_24A435_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:37.850490+00:00",
+      "signed_updated": "2026-11-27T09:08:08.453950+00:00",
       "version": "27.0 RC"
     },
     "24A437": {
@@ -2933,7 +2933,7 @@
       "first_seen": "2026-11-17T09:10:46.138764+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026FallFCS/77ece52f-412a-4bc2-92aa-6f65edfa59d6/iPhone12,3,iPhone12,5_27.0_24A437_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:38.966560+00:00",
+      "signed_updated": "2026-11-27T09:08:09.464421+00:00",
       "version": "27.0"
     },
     "24A446": {
@@ -2949,7 +2949,7 @@
       "first_seen": "2026-11-17T09:10:46.138770+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026SpringSeed/fullrestores/122-99403/2C8330A9-CFF7-4B08-9CAF-CC689CB64FC7/iPhone12,3,iPhone12,5_27.0_24A5355q_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:40.076690+00:00",
+      "signed_updated": "2026-11-27T09:08:10.356271+00:00",
       "version": "27.0 beta"
     },
     "24A5370h": {
@@ -2957,7 +2957,7 @@
       "first_seen": "2026-11-17T09:10:46.138772+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026SpringSeed/fullrestores/140-20242/CD53E584-98E6-4560-B847-D8D5027223E8/iPhone12,3,iPhone12,5_27.0_24A5370h_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:41.264188+00:00",
+      "signed_updated": "2026-11-27T09:08:11.224101+00:00",
       "version": "27.0 beta 2"
     },
     "24A5380h": {
@@ -2965,7 +2965,7 @@
       "first_seen": "2026-11-17T09:10:46.138775+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026SpringSeed/fullrestores/140-35958/9EC7A77B-DC21-4DD3-B285-8CA45DEF7689/iPhone12,3,iPhone12,5_27.0_24A5380h_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:42.433518+00:00",
+      "signed_updated": "2026-11-27T09:08:11.902631+00:00",
       "version": "27.0 beta 3"
     },
     "24A5390f": {
@@ -2973,7 +2973,7 @@
       "first_seen": "2026-11-17T09:10:46.138778+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026SpringSeed/fullrestores/140-57661/BD30263B-F01D-4009-A05A-2DB9AD23AC0F/iPhone12,3,iPhone12,5_27.0_24A5390f_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:43.509534+00:00",
+      "signed_updated": "2026-11-27T09:08:12.759571+00:00",
       "version": "27.0 beta 4"
     },
     "24A5408d": {
@@ -2981,7 +2981,7 @@
       "first_seen": "2026-11-17T09:10:46.138780+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026SpringSeed/fullrestores/140-81371/A071FCF4-602A-4D7C-AECE-568D6E8D0DDD/iPhone12,3,iPhone12,5_27.0_24A5408d_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:44.162570+00:00",
+      "signed_updated": "2026-11-27T09:08:13.564566+00:00",
       "version": "27.0 beta 5"
     },
     "24A5418b": {
@@ -2989,7 +2989,7 @@
       "first_seen": "2026-11-17T09:10:46.138783+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026SpringSeed/7ba086c3-a2ef-46dd-82a9-5997c0ec66f9/iPhone12,3,iPhone12,5_27.0_24A5418b_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:45.228483+00:00",
+      "signed_updated": "2026-11-27T09:08:14.539925+00:00",
       "version": "27.0 beta 6"
     },
     "24A5424a": {
@@ -2997,7 +2997,7 @@
       "first_seen": "2026-11-17T09:10:46.138786+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026SpringSeed/fc011d3e-5aeb-4762-b549-a4de978296a7/iPhone12,3,iPhone12,5_27.0_24A5424a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:46.341412+00:00",
+      "signed_updated": "2026-11-27T09:08:15.393935+00:00",
       "version": "27.0 beta 7"
     },
     "24A5430a": {
@@ -3005,7 +3005,7 @@
       "first_seen": "2026-11-17T09:10:46.138788+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026SpringSeed/4d828e5f-70a9-467f-bd8d-c714df9d4c57/iPhone12,3,iPhone12,5_27.0_24A5430a_Restore.ipsw",
       "signed": false,
-      "signed_updated": "2026-11-27T08:38:47.101573+00:00",
+      "signed_updated": "2026-11-27T09:08:16.232403+00:00",
       "version": "27.0 beta 8"
     },
     "24B115": {
@@ -3029,7 +3029,7 @@
       "first_seen": "2026-11-17T09:10:46.138799+00:00",
       "ipsw_url": "https://updates.cdn-apple.com/2026FallFCS/5a395bcb-525c-4bdd-8953-ff685b86c973/iPhone12,3,iPhone12,5_27.2.1_24B156_Restore.ipsw",
       "signed": true,
-      "signed_updated": "2026-11-27T08:38:48.085254+00:00",
+      "signed_updated": "2026-11-27T09:08:16.800619+00:00",
       "version": "27.2.1"
     },
     "24B5084k": {
@@ -3076,5 +3076,5 @@
     }
   },
   "device": "iPhone12,3",
-  "last_updated": "2026-11-27T08:38:48.089482+00:00"
+  "last_updated": "2026-11-27T09:08:16.802944+00:00"
 }
